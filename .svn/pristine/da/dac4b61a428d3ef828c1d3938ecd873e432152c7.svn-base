@@ -1,0 +1,445 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>查看详情</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/查看详情/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/查看详情/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (水平线) -->
+      <div id="u28020" class="ax_default horizontal_line">
+        <img id="u28020_img" class="img " src="images/新增套餐/u27805.png"/>
+        <!-- Unnamed () -->
+        <div id="u28021" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28022" class="ax_default paragraph">
+        <div id="u28022_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28023" class="text" style="visibility: visible;">
+          <p><span>查看详情</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u28024" class="ax_default image">
+        <img id="u28024_img" class="img " src="images/导出资料报批/u1921.png"/>
+        <!-- Unnamed () -->
+        <div id="u28025" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28026" class="ax_default heading_1">
+        <div id="u28026_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28027" class="text" style="visibility: visible;">
+          <p><span>消费套餐</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u28028" class="ax_default horizontal_line">
+        <img id="u28028_img" class="img " src="images/新增套餐/u27805.png"/>
+        <!-- Unnamed () -->
+        <div id="u28029" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28030" class="ax_default paragraph">
+        <div id="u28030_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28031" class="text" style="visibility: visible;">
+          <p><span>查看详情</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28032" class="ax_default heading_1">
+        <div id="u28032_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28033" class="text" style="visibility: visible;">
+          <p><span>微信套餐</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u28034" class="ax_default horizontal_line">
+        <img id="u28034_img" class="img " src="images/新增套餐/u27805.png"/>
+        <!-- Unnamed () -->
+        <div id="u28035" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28036" class="ax_default paragraph">
+        <div id="u28036_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28037" class="text" style="visibility: visible;">
+          <p><span>查看详情</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28038" class="ax_default heading_1">
+        <div id="u28038_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28039" class="text" style="visibility: visible;">
+          <p><span>支付宝套餐</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u28040" class="ax_default horizontal_line">
+        <img id="u28040_img" class="img " src="images/新增套餐/u27805.png"/>
+        <!-- Unnamed () -->
+        <div id="u28041" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28042" class="ax_default paragraph">
+        <div id="u28042_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28043" class="text" style="visibility: visible;">
+          <p><span>查看详情</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u28044" class="ax_default image">
+        <img id="u28044_img" class="img " src="images/导出资料报批/u1921.png"/>
+        <!-- Unnamed () -->
+        <div id="u28045" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28046" class="ax_default label">
+        <div id="u28046_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28047" class="text" style="visibility: visible;">
+          <p><span>预授权类：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u28048" class="ax_default checkbox">
+        <label for="u28048_input">
+          <!-- Unnamed () -->
+          <div id="u28049" class="text" style="visibility: visible;">
+            <p><span>预授权</span></p>
+          </div>
+        </label>
+        <input id="u28048_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u28050" class="ax_default checkbox">
+        <label for="u28050_input">
+          <!-- Unnamed () -->
+          <div id="u28051" class="text" style="visibility: visible;">
+            <p><span>预授权撤销</span></p>
+          </div>
+        </label>
+        <input id="u28050_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u28052" class="ax_default checkbox">
+        <label for="u28052_input">
+          <!-- Unnamed () -->
+          <div id="u28053" class="text" style="visibility: visible;">
+            <p><span>预授权完成（请求）</span></p>
+          </div>
+        </label>
+        <input id="u28052_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28054" class="ax_default label">
+        <div id="u28054_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28055" class="text" style="visibility: visible;">
+          <p><span>查询类：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u28056" class="ax_default checkbox">
+        <label for="u28056_input">
+          <!-- Unnamed () -->
+          <div id="u28057" class="text" style="visibility: visible;">
+            <p><span>余额查询</span></p>
+          </div>
+        </label>
+        <input id="u28056_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28058" class="ax_default heading_1">
+        <div id="u28058_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28059" class="text" style="visibility: visible;">
+          <p><span>预授权套餐</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u28060" class="ax_default checkbox">
+        <label for="u28060_input">
+          <!-- Unnamed () -->
+          <div id="u28061" class="text" style="visibility: visible;">
+            <p><span>微信主扫</span></p>
+          </div>
+        </label>
+        <input id="u28060_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u28062" class="ax_default checkbox">
+        <label for="u28062_input">
+          <!-- Unnamed () -->
+          <div id="u28063" class="text" style="visibility: visible;">
+            <p><span>微信被扫</span></p>
+          </div>
+        </label>
+        <input id="u28062_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u28064" class="ax_default checkbox">
+        <label for="u28064_input">
+          <!-- Unnamed () -->
+          <div id="u28065" class="text" style="visibility: visible;">
+            <p><span>微信撤销</span></p>
+          </div>
+        </label>
+        <input id="u28064_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u28066" class="ax_default checkbox">
+        <label for="u28066_input">
+          <!-- Unnamed () -->
+          <div id="u28067" class="text" style="visibility: visible;">
+            <p><span>支付宝主扫</span></p>
+          </div>
+        </label>
+        <input id="u28066_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u28068" class="ax_default checkbox">
+        <label for="u28068_input">
+          <!-- Unnamed () -->
+          <div id="u28069" class="text" style="visibility: visible;">
+            <p><span>支付宝被扫</span></p>
+          </div>
+        </label>
+        <input id="u28068_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u28070" class="ax_default checkbox">
+        <label for="u28070_input">
+          <!-- Unnamed () -->
+          <div id="u28071" class="text" style="visibility: visible;">
+            <p><span>支付宝撤销</span></p>
+          </div>
+        </label>
+        <input id="u28070_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28072" class="ax_default label">
+        <div id="u28072_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28073" class="text" style="visibility: visible;">
+          <p><span>消费类：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u28074" class="ax_default checkbox">
+        <label for="u28074_input">
+          <!-- Unnamed () -->
+          <div id="u28075" class="text" style="visibility: visible;">
+            <p><span>消费</span></p>
+          </div>
+        </label>
+        <input id="u28074_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u28076" class="ax_default checkbox">
+        <label for="u28076_input">
+          <!-- Unnamed () -->
+          <div id="u28077" class="text" style="visibility: visible;">
+            <p><span>消费撤销</span></p>
+          </div>
+        </label>
+        <input id="u28076_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28078" class="ax_default label">
+        <div id="u28078_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28079" class="text" style="visibility: visible;">
+          <p><span>查询类：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u28080" class="ax_default checkbox">
+        <label for="u28080_input">
+          <!-- Unnamed () -->
+          <div id="u28081" class="text" style="visibility: visible;">
+            <p><span>余额查询</span></p>
+          </div>
+        </label>
+        <input id="u28080_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28082" class="ax_default label">
+        <div id="u28082_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28083" class="text" style="visibility: visible;">
+          <p><span>套餐描述：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u28084" class="ax_default text_area">
+        <textarea id="u28084_input"></textarea>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28085" class="ax_default label">
+        <div id="u28085_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28086" class="text" style="visibility: visible;">
+          <p><span>套餐描述：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u28087" class="ax_default text_area">
+        <textarea id="u28087_input"></textarea>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28088" class="ax_default label">
+        <div id="u28088_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28089" class="text" style="visibility: visible;">
+          <p><span>套餐描述：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u28090" class="ax_default text_area">
+        <textarea id="u28090_input"></textarea>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28091" class="ax_default label">
+        <div id="u28091_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u28092" class="text" style="visibility: visible;">
+          <p><span>套餐描述：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u28093" class="ax_default text_area">
+        <textarea id="u28093_input"></textarea>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u28094" class="ax_default image">
+        <img id="u28094_img" class="img " src="images/导出资料报批/u1921.png"/>
+        <!-- Unnamed () -->
+        <div id="u28095" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u28096" class="ax_default image">
+        <img id="u28096_img" class="img " src="images/导出资料报批/u1921.png"/>
+        <!-- Unnamed () -->
+        <div id="u28097" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u28098" class="ax_default checkbox">
+        <label for="u28098_input">
+          <!-- Unnamed () -->
+          <div id="u28099" class="text" style="visibility: visible;">
+            <p><span>预授权完成撤销</span></p>
+          </div>
+        </label>
+        <input id="u28098_input" type="checkbox" value="checkbox"/>
+      </div>
+    </div>
+  </body>
+</html>

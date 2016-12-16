@@ -1,0 +1,897 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>撤机申请</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/撤机申请/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/撤机申请/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24434" class="ax_default paragraph">
+        <div id="u24434_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24435" class="text" style="visibility: visible;">
+          <p><span>撤机申请</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24436" class="ax_default label">
+        <div id="u24436_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24437" class="text" style="visibility: visible;">
+          <p><span>撤机申请CRM不做申请界面，通过前端平台申请，以下信息供参考</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24438" class="ax_default heading_3">
+        <div id="u24438_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24439" class="text" style="visibility: visible;">
+          <p><span>注意：支持批量申请，系统要判断，同一个商户的生成一个流程，不同商户的生成不同的流程，同一个商户的多台机器在同一个流程内</span></p><p><span><br></span></p><p><span>或者一批次添加撤机信息的必须是同一个商户的，不同商户的分开</span></p><p><span><br></span></p><p><span>如果同一商户既有租赁又有购买，暂时只能选择相同类型的发起申请</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u24440" class="ax_default text_field">
+        <input id="u24440_input" type="text" value=""/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u24441" class="ax_default image">
+        <img id="u24441_img" class="img " src="images/进件/u1023.png"/>
+        <!-- Unnamed () -->
+        <div id="u24442" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24443" class="ax_default label">
+        <div id="u24443_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24444" class="text" style="visibility: visible;">
+          <p><span>商户名称：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24445" class="ax_default label">
+        <div id="u24445_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24446" class="text" style="visibility: visible;">
+          <p><span>可输入可选择，需要同时记录该商户名称对应的商户号</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u24447" class="ax_default">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24448" class="ax_default table_cell">
+          <img id="u24448_img" class="img " src="images/换机/u12086.png"/>
+          <!-- Unnamed () -->
+          <div id="u24449" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24450" class="ax_default table_cell">
+          <img id="u24450_img" class="img " src="images/撤机申请/u24450.png"/>
+          <!-- Unnamed () -->
+          <div id="u24451" class="text" style="visibility: visible;">
+            <p><span>终端号</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24452" class="ax_default table_cell">
+          <img id="u24452_img" class="img " src="images/撤机申请/u24452.png"/>
+          <!-- Unnamed () -->
+          <div id="u24453" class="text" style="visibility: visible;">
+            <p><span>机身号</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24454" class="ax_default table_cell">
+          <img id="u24454_img" class="img " src="images/撤机申请/u24454.png"/>
+          <!-- Unnamed () -->
+          <div id="u24455" class="text" style="visibility: visible;">
+            <p><span>机型</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24456" class="ax_default table_cell">
+          <img id="u24456_img" class="img " src="images/撤机申请/u24456.png"/>
+          <!-- Unnamed () -->
+          <div id="u24457" class="text" style="visibility: visible;">
+            <p><span>押金金额</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24458" class="ax_default table_cell">
+          <img id="u24458_img" class="img " src="images/撤机申请/u24458.png"/>
+          <!-- Unnamed () -->
+          <div id="u24459" class="text" style="visibility: visible;">
+            <p><span>密码键盘</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24460" class="ax_default table_cell">
+          <img id="u24460_img" class="img " src="images/撤机申请/u24458.png"/>
+          <!-- Unnamed () -->
+          <div id="u24461" class="text" style="visibility: visible;">
+            <p><span>GPRS卡</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24462" class="ax_default table_cell">
+          <img id="u24462_img" class="img " src="images/撤机申请/u24462.png"/>
+          <!-- Unnamed () -->
+          <div id="u24463" class="text" style="visibility: visible;">
+            <p><span>机器使用方式</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24464" class="ax_default table_cell">
+          <img id="u24464_img" class="img " src="images/撤机申请/u24464.png"/>
+          <!-- Unnamed () -->
+          <div id="u24465" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24466" class="ax_default table_cell">
+          <img id="u24466_img" class="img " src="images/撤机申请/u24466.png"/>
+          <!-- Unnamed () -->
+          <div id="u24467" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24468" class="ax_default table_cell">
+          <img id="u24468_img" class="img " src="images/撤机申请/u24468.png"/>
+          <!-- Unnamed () -->
+          <div id="u24469" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24470" class="ax_default table_cell">
+          <img id="u24470_img" class="img " src="images/撤机申请/u24470.png"/>
+          <!-- Unnamed () -->
+          <div id="u24471" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24472" class="ax_default table_cell">
+          <img id="u24472_img" class="img " src="images/撤机申请/u24472.png"/>
+          <!-- Unnamed () -->
+          <div id="u24473" class="text" style="visibility: visible;">
+            <p><span>400.00</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24474" class="ax_default table_cell">
+          <img id="u24474_img" class="img " src="images/撤机申请/u24474.png"/>
+          <!-- Unnamed () -->
+          <div id="u24475" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24476" class="ax_default table_cell">
+          <img id="u24476_img" class="img " src="images/撤机申请/u24474.png"/>
+          <!-- Unnamed () -->
+          <div id="u24477" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24478" class="ax_default table_cell">
+          <img id="u24478_img" class="img " src="images/终端管理/u23827.png"/>
+          <!-- Unnamed () -->
+          <div id="u24479" class="text" style="visibility: visible;">
+            <p><span>租赁</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24480" class="ax_default table_cell">
+          <img id="u24480_img" class="img " src="images/撤机申请/u24480.png"/>
+          <!-- Unnamed () -->
+          <div id="u24481" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24482" class="ax_default table_cell">
+          <img id="u24482_img" class="img " src="images/撤机申请/u24482.png"/>
+          <!-- Unnamed () -->
+          <div id="u24483" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24484" class="ax_default table_cell">
+          <img id="u24484_img" class="img " src="images/撤机申请/u24484.png"/>
+          <!-- Unnamed () -->
+          <div id="u24485" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24486" class="ax_default table_cell">
+          <img id="u24486_img" class="img " src="images/撤机申请/u24486.png"/>
+          <!-- Unnamed () -->
+          <div id="u24487" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24488" class="ax_default table_cell">
+          <img id="u24488_img" class="img " src="images/生成退款单/u11177.png"/>
+          <!-- Unnamed () -->
+          <div id="u24489" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24490" class="ax_default table_cell">
+          <img id="u24490_img" class="img " src="images/撤机申请/u24490.png"/>
+          <!-- Unnamed () -->
+          <div id="u24491" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24492" class="ax_default table_cell">
+          <img id="u24492_img" class="img " src="images/撤机申请/u24490.png"/>
+          <!-- Unnamed () -->
+          <div id="u24493" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24494" class="ax_default table_cell">
+          <img id="u24494_img" class="img " src="images/终端管理/u24127.png"/>
+          <!-- Unnamed () -->
+          <div id="u24495" class="text" style="visibility: visible;">
+            <p><span>购机</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24496" class="ax_default label">
+        <div id="u24496_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24497" class="text" style="visibility: visible;">
+          <p><span>一定要选择完商户名称，再选择机身号</span></p><p><span><br></span></p><p><span>支持一次撤多台</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u24498" class="ax_default checkbox">
+        <label for="u24498_input">
+          <!-- Unnamed () -->
+          <div id="u24499" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </label>
+        <input id="u24498_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u24500" class="ax_default checkbox">
+        <label for="u24500_input">
+          <!-- Unnamed () -->
+          <div id="u24501" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </label>
+        <input id="u24500_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u24502" class="ax_default checkbox">
+        <label for="u24502_input">
+          <!-- Unnamed () -->
+          <div id="u24503" class="text" style="visibility: visible;">
+            <p><span>全选</span></p>
+          </div>
+        </label>
+        <input id="u24502_input" type="checkbox" value="checkbox"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24504" class="ax_default label">
+        <div id="u24504_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24505" class="text" style="visibility: visible;">
+          <p><span>只能勾选机器使用方式相同的终端</span></p>
+        </div>
+      </div>
+
+      <!-- 租机购机 (动态面板) -->
+      <div id="u24506" class="ax_default ax_default_hidden" data-label="租机购机" style="display: none; visibility: hidden">
+        <div id="u24506_state0" class="panel_state" data-label="租机">
+          <div id="u24506_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (提交按钮) -->
+            <div id="u24507" class="ax_default html_button">
+              <input id="u24507_input" type="submit" value="提交"/>
+            </div>
+
+            <!-- Unnamed (提交按钮) -->
+            <div id="u24508" class="ax_default html_button">
+              <input id="u24508_input" type="submit" value="取消"/>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u24509" class="ax_default text_field">
+              <input id="u24509_input" type="text" value="13300000000"/>
+            </div>
+
+            <!-- Unnamed (多行文本框) -->
+            <div id="u24510" class="ax_default text_area">
+              <textarea id="u24510_input">100个汉字以内</textarea>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24511" class="ax_default label">
+              <div id="u24511_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24512" class="text" style="visibility: visible;">
+                <p><span>业务申请人：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u24513" class="ax_default text_field">
+              <input id="u24513_input" type="text" value="张三"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24514" class="ax_default label">
+              <div id="u24514_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24515" class="text" style="visibility: visible;">
+                <p><span>撤机原因：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24516" class="ax_default label">
+              <div id="u24516_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24517" class="text" style="visibility: visible;">
+                <p><span>系统默认为当前登录人，不能修改</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u24518" class="ax_default text_field">
+              <input id="u24518_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24519" class="ax_default label">
+              <div id="u24519_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24520" class="text" style="visibility: visible;">
+                <p><span>商户联系人：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24521" class="ax_default label">
+              <div id="u24521_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24522" class="text" style="visibility: visible;">
+                <p><span>商户联系电话：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24523" class="ax_default label">
+              <div id="u24523_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24524" class="text" style="visibility: visible;">
+                <p><span>默认商户法人/承租人电话，可修改</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24525" class="ax_default label">
+              <div id="u24525_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24526" class="text" style="visibility: visible;">
+                <p><span>备注：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u24527" class="ax_default radio_button">
+              <label for="u24527_input">
+                <!-- Unnamed () -->
+                <div id="u24528" class="text" style="visibility: visible;">
+                  <p><span>需要，已邮寄</span></p>
+                </div>
+              </label>
+              <input id="u24527_input" type="radio" value="radio" name="是否邮寄"/>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u24529" class="ax_default radio_button">
+              <label for="u24529_input">
+                <!-- Unnamed () -->
+                <div id="u24530" class="text" style="visibility: visible;">
+                  <p><span>需要，稍后邮寄</span></p>
+                </div>
+              </label>
+              <input id="u24529_input" type="radio" value="radio" name="是否邮寄"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24531" class="ax_default label">
+              <div id="u24531_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24532" class="text" style="visibility: visible;">
+                <p><span>机器邮寄</span><span style="color:#FF0000;">*</span><span>：</span></p>
+              </div>
+            </div>
+
+            <!-- 快递单号 (动态面板) -->
+            <div id="u24533" class="ax_default" data-label="快递单号">
+              <div id="u24533_state0" class="panel_state" data-label="State1">
+                <div id="u24533_state0_content" class="panel_state_content">
+                </div>
+              </div>
+              <div id="u24533_state1" class="panel_state" data-label="已邮寄" style="display: none; visibility: hidden;">
+                <div id="u24533_state1_content" class="panel_state_content">
+
+                  <!-- Unnamed (下拉列表框) -->
+                  <div id="u24534" class="ax_default droplist">
+                    <select id="u24534_input">
+                      <option selected value="请选择">请选择</option>
+                      <option value="顺丰">顺丰</option>
+                    </select>
+                  </div>
+
+                  <!-- Unnamed (文本框) -->
+                  <div id="u24535" class="ax_default text_field">
+                    <input id="u24535_input" type="text" value=""/>
+                  </div>
+
+                  <!-- Unnamed (矩形) -->
+                  <div id="u24536" class="ax_default label">
+                    <div id="u24536_div" class=""></div>
+                    <!-- Unnamed () -->
+                    <div id="u24537" class="text" style="visibility: visible;">
+                      <p><span>快递公司：</span></p>
+                    </div>
+                  </div>
+
+                  <!-- Unnamed (矩形) -->
+                  <div id="u24538" class="ax_default label">
+                    <div id="u24538_div" class=""></div>
+                    <!-- Unnamed () -->
+                    <div id="u24539" class="text" style="visibility: visible;">
+                      <p><span>快递单号：</span></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24540" class="ax_default label">
+              <div id="u24540_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24541" class="text" style="visibility: visible;">
+                <p><span>申请时间为当前提交的时间，系统自动保存</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24542" class="ax_default label">
+              <div id="u24542_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24543" class="text" style="visibility: visible;">
+                <p><span>选稍后邮寄不需要填写快递信息，要注意排版</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (下拉列表框) -->
+            <div id="u24544" class="ax_default droplist">
+              <select id="u24544_input">
+                <option value="请选择">请选择</option>
+                <option value="店铺结业/转让/停业">店铺结业/转让/停业</option>
+                <option value="安装它行机器">安装它行机器</option>
+                <option value="撤机重装（执照/法人/收款人变更等）">撤机重装（执照/法人/收款人变更等）</option>
+                <option value="机器故障（包括连接慢、信号不好、不出票等）">机器故障（包括连接慢、信号不好、不出票等）</option>
+                <option value="费用问题（包括扣率、月租等）">费用问题（包括扣率、月租等）</option>
+                <option value="机器闲置（备用机/临时展销活动机器等）">机器闲置（备用机/临时展销活动机器等）</option>
+                <option value="劣质商户（无刷卡量或刷卡量偏低的商户）">劣质商户（无刷卡量或刷卡量偏低的商户）</option>
+                <option value="风险商户">风险商户</option>
+                <option value="拒装（因录入信息有误、审件、出机时间、未安装等）">拒装（因录入信息有误、审件、出机时间、未安装等）</option>
+                <option value="绑错终端（激活有误）">绑错终端（激活有误）</option>
+              </select>
+            </div>
+
+            <!-- Unnamed (文本段落) -->
+            <div id="u24545" class="ax_default paragraph">
+              <img id="u24545_img" class="img " src="images/撤机申请/u24545.png"/>
+              <!-- Unnamed () -->
+              <div id="u24546" class="text" style="visibility: visible;">
+                <p><span>默认商户法人/承租人，可修改</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u24547" class="ax_default radio_button">
+              <label for="u24547_input">
+                <!-- Unnamed () -->
+                <div id="u24548" class="text" style="visibility: visible;">
+                  <p><span>需要，已邮寄</span></p>
+                </div>
+              </label>
+              <input id="u24547_input" type="radio" value="radio" name="是否邮寄"/>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u24549" class="ax_default radio_button">
+              <label for="u24549_input">
+                <!-- Unnamed () -->
+                <div id="u24550" class="text" style="visibility: visible;">
+                  <p><span>需要，稍后邮寄</span></p>
+                </div>
+              </label>
+              <input id="u24549_input" type="radio" value="radio" name="是否邮寄"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24551" class="ax_default label">
+              <div id="u24551_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24552" class="text" style="visibility: visible;">
+                <p><span>签购单，押金单邮寄</span><span style="color:#FF0000;">*</span><span>：</span></p>
+              </div>
+            </div>
+
+            <!-- 快递单号 (动态面板) -->
+            <div id="u24553" class="ax_default" data-label="快递单号">
+              <div id="u24553_state0" class="panel_state" data-label="State1">
+                <div id="u24553_state0_content" class="panel_state_content">
+                </div>
+              </div>
+              <div id="u24553_state1" class="panel_state" data-label="已邮寄" style="display: none; visibility: hidden;">
+                <div id="u24553_state1_content" class="panel_state_content">
+
+                  <!-- Unnamed (下拉列表框) -->
+                  <div id="u24554" class="ax_default droplist">
+                    <select id="u24554_input">
+                      <option selected value="请选择">请选择</option>
+                      <option value="顺丰">顺丰</option>
+                    </select>
+                  </div>
+
+                  <!-- Unnamed (文本框) -->
+                  <div id="u24555" class="ax_default text_field">
+                    <input id="u24555_input" type="text" value=""/>
+                  </div>
+
+                  <!-- Unnamed (矩形) -->
+                  <div id="u24556" class="ax_default label">
+                    <div id="u24556_div" class=""></div>
+                    <!-- Unnamed () -->
+                    <div id="u24557" class="text" style="visibility: visible;">
+                      <p><span>快递公司：</span></p>
+                    </div>
+                  </div>
+
+                  <!-- Unnamed (矩形) -->
+                  <div id="u24558" class="ax_default label">
+                    <div id="u24558_div" class=""></div>
+                    <!-- Unnamed () -->
+                    <div id="u24559" class="text" style="visibility: visible;">
+                      <p><span>快递单号：</span></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24560" class="ax_default label">
+              <div id="u24560_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24561" class="text" style="visibility: visible;">
+                <p><span>选稍后邮寄不需要填写快递信息，要注意排版</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24562" class="ax_default label">
+              <div id="u24562_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24563" class="text" style="visibility: visible;">
+                <p><span>目前直营租赁的机器一般是商服人员带回到各地办事处，一般是不需要邮寄的</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24564" class="ax_default label">
+              <div id="u24564_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24565" class="text" style="visibility: visible;">
+                <p><span>如果是租赁的机器，签购单是需要邮寄的，不允许选择不需要</span></p><p><span>押金单电子化后不需要邮寄了</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本段落) -->
+            <div id="u24566" class="ax_default paragraph">
+              <img id="u24566_img" class="img " src="images/进件审核/u1083.png"/>
+              <!-- Unnamed () -->
+              <div id="u24567" class="text" style="visibility: visible;">
+                <p><span>收款信息：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本段落) -->
+            <div id="u24568" class="ax_default paragraph">
+              <img id="u24568_img" class="img " src="images/撤机申请/u24568.png"/>
+              <!-- Unnamed () -->
+              <div id="u24569" class="text" style="visibility: visible;">
+                <p><span>收款人：张三</span></p><p><span>开户行：招商银行深圳分行</span></p><p><span>银行账号：6217 0000 0000 0000</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24570" class="ax_default label">
+              <div id="u24570_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24571" class="text" style="visibility: visible;">
+                <p><span>默认商户的结算账号，不能修改</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u24572" class="ax_default radio_button">
+              <label for="u24572_input">
+                <!-- Unnamed () -->
+                <div id="u24573" class="text" style="visibility: visible;">
+                  <p><span>不需要邮寄</span></p>
+                </div>
+              </label>
+              <input id="u24572_input" type="radio" value="radio" name="是否邮寄"/>
+            </div>
+          </div>
+        </div>
+        <div id="u24506_state1" class="panel_state" data-label="购机" style="display: none; visibility: hidden;">
+          <div id="u24506_state1_content" class="panel_state_content">
+
+            <!-- Unnamed (提交按钮) -->
+            <div id="u24574" class="ax_default html_button">
+              <input id="u24574_input" type="submit" value="提交"/>
+            </div>
+
+            <!-- Unnamed (提交按钮) -->
+            <div id="u24575" class="ax_default html_button">
+              <input id="u24575_input" type="submit" value="取消"/>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u24576" class="ax_default text_field">
+              <input id="u24576_input" type="text" value="13300000000"/>
+            </div>
+
+            <!-- Unnamed (多行文本框) -->
+            <div id="u24577" class="ax_default text_area">
+              <textarea id="u24577_input">100个汉字以内</textarea>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24578" class="ax_default label">
+              <div id="u24578_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24579" class="text" style="visibility: visible;">
+                <p><span>业务申请人：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u24580" class="ax_default text_field">
+              <input id="u24580_input" type="text" value="张三"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24581" class="ax_default label">
+              <div id="u24581_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24582" class="text" style="visibility: visible;">
+                <p><span>撤机原因：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24583" class="ax_default label">
+              <div id="u24583_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24584" class="text" style="visibility: visible;">
+                <p><span>系统默认为当前登录人</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u24585" class="ax_default text_field">
+              <input id="u24585_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24586" class="ax_default label">
+              <div id="u24586_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24587" class="text" style="visibility: visible;">
+                <p><span>商户联系人：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24588" class="ax_default label">
+              <div id="u24588_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24589" class="text" style="visibility: visible;">
+                <p><span>商户联系电话：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24590" class="ax_default label">
+              <div id="u24590_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24591" class="text" style="visibility: visible;">
+                <p><span>默认商户法人/承租人电话，可修改</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24592" class="ax_default label">
+              <div id="u24592_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24593" class="text" style="visibility: visible;">
+                <p><span>备注：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u24594" class="ax_default label">
+              <div id="u24594_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u24595" class="text" style="visibility: visible;">
+                <p><span>申请时间未当前提交的时间，系统自动保存</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (下拉列表框) -->
+            <div id="u24596" class="ax_default droplist">
+              <select id="u24596_input">
+                <option value="请选择">请选择</option>
+                <option value="店铺结业/转让/停业">店铺结业/转让/停业</option>
+                <option value="安装它行机器">安装它行机器</option>
+                <option value="撤机重装（执照/法人/收款人变更等）">撤机重装（执照/法人/收款人变更等）</option>
+                <option value="机器故障（包括连接慢、信号不好、不出票等）">机器故障（包括连接慢、信号不好、不出票等）</option>
+                <option value="费用问题（包括扣率、月租等）">费用问题（包括扣率、月租等）</option>
+                <option value="机器闲置（备用机/临时展销活动机器等）">机器闲置（备用机/临时展销活动机器等）</option>
+                <option value="劣质商户（无刷卡量或刷卡量偏低的商户）">劣质商户（无刷卡量或刷卡量偏低的商户）</option>
+                <option value="风险商户">风险商户</option>
+                <option value="拒装（因录入信息有误、审件、出机时间、未安装等）">拒装（因录入信息有误、审件、出机时间、未安装等）</option>
+                <option value="绑错终端（激活有误）">绑错终端（激活有误）</option>
+              </select>
+            </div>
+
+            <!-- Unnamed (文本段落) -->
+            <div id="u24597" class="ax_default paragraph">
+              <img id="u24597_img" class="img " src="images/撤机申请/u24545.png"/>
+              <!-- Unnamed () -->
+              <div id="u24598" class="text" style="visibility: visible;">
+                <p><span>默认商户法人/承租人，可修改</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (单选按钮) -->
+      <div id="u24599" class="ax_default radio_button">
+        <label for="u24599_input">
+          <!-- Unnamed () -->
+          <div id="u24600" class="text" style="visibility: visible;">
+            <p><span>如果上面选择租机，需要填写租机内容，点击查看</span></p>
+          </div>
+        </label>
+        <input id="u24599_input" type="radio" value="radio" name="租机购机"/>
+      </div>
+
+      <!-- Unnamed (单选按钮) -->
+      <div id="u24601" class="ax_default radio_button">
+        <label for="u24601_input">
+          <!-- Unnamed () -->
+          <div id="u24602" class="text" style="visibility: visible;">
+            <p><span>如果上面选择购机，需要填写购机内容，点击查看</span></p>
+          </div>
+        </label>
+        <input id="u24601_input" type="radio" value="radio" name="租机购机"/>
+      </div>
+    </div>
+  </body>
+</html>

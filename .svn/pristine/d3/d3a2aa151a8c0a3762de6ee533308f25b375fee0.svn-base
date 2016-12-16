@@ -1,0 +1,706 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>短信库修改</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/短信库修改/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/短信库修改/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (菜单栏) -->
+
+      <!-- Unnamed (矩形) -->
+      <div id="u46418" class="ax_default heading_1">
+        <div id="u46418_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u46419" class="text" style="visibility: visible;">
+          <p><span>CRM管理平台</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u46420" class="ax_default horizontal_line">
+        <img id="u46420_img" class="img " src="images/我的工作台/u94.png"/>
+        <!-- Unnamed () -->
+        <div id="u46421" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u46422" class="ax_default vertical_line">
+        <img id="u46422_img" class="img " src="images/我的工作台/u96.png"/>
+        <!-- Unnamed () -->
+        <div id="u46423" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u46424" class="ax_default paragraph">
+        <div id="u46424_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u46425" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">欢迎 </span><span style="font-family:'Arial Negreta', 'Arial Normal', 'Arial';font-weight:700;">李四</span><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">&nbsp;&nbsp; </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u46426" class="ax_default paragraph">
+        <div id="u46426_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u46427" class="text" style="visibility: visible;">
+          <p><span style="text-decoration:underline;">退出</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (树状菜单) -->
+      <div id="u46428" class="ax_default tree_node treeroot">
+        <div id="u46428_children" class="u46428_children">
+
+          <!-- Unnamed (树节点) -->
+          <div id="u46429" class="ax_default tree_node treenode">
+            <!-- Unnamed (矩形) -->
+            <div id="u46430" class="" selectiongroup="u46417u46428_tree_group">
+              <div id="u46430_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u46431" class="text" style="visibility: visible;">
+                <p><span>我的工作台</span></p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Unnamed (树节点) -->
+          <div id="u46432" class="ax_default tree_node treenode">
+
+            <!-- Unnamed (图片) -->
+            <div id="u46433" class="ax_default image">
+              <img id="u46433_img" class="img " src="images/我的工作台/u107_selected.png"/>
+              <!-- Unnamed () -->
+              <div id="u46434" class="text" style="display: none; visibility: hidden">
+                <p><span></span></p>
+              </div>
+            </div>
+            <!-- Unnamed (矩形) -->
+            <div id="u46435" class="" selectiongroup="u46417u46428_tree_group">
+              <div id="u46435_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u46436" class="text" style="visibility: visible;">
+                <p><span>客户管理</span></p>
+              </div>
+            </div>
+            <div id="u46432_children" class="u46432_children">
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46437" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46438" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46438_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46439" class="text" style="visibility: visible;">
+                    <p><span>商户</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46440" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46441" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46441_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46442" class="text" style="visibility: visible;">
+                    <p><span>终端</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46443" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46444" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46444_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46445" class="text" style="visibility: visible;">
+                    <p><span>代理商</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46446" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46447" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46447_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46448" class="text" style="visibility: visible;">
+                    <p><span>白名单</span></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Unnamed (树节点) -->
+          <div id="u46449" class="ax_default tree_node treenode">
+
+            <!-- Unnamed (图片) -->
+            <div id="u46450" class="ax_default image">
+              <img id="u46450_img" class="img " src="images/我的工作台/u107_selected.png"/>
+              <!-- Unnamed () -->
+              <div id="u46451" class="text" style="display: none; visibility: hidden">
+                <p><span></span></p>
+              </div>
+            </div>
+            <!-- Unnamed (矩形) -->
+            <div id="u46452" class="" selectiongroup="u46417u46428_tree_group">
+              <div id="u46452_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u46453" class="text" style="visibility: visible;">
+                <p><span>产品管理</span></p>
+              </div>
+            </div>
+            <div id="u46449_children" class="u46449_children">
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46454" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46455" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46455_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46456" class="text" style="visibility: visible;">
+                    <p><span>业务套餐</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46457" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46458" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46458_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46459" class="text" style="visibility: visible;">
+                    <p><span>计费套餐</span></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Unnamed (树节点) -->
+          <div id="u46460" class="ax_default tree_node treenode">
+
+            <!-- Unnamed (图片) -->
+            <div id="u46461" class="ax_default image">
+              <img id="u46461_img" class="img " src="images/我的工作台/u107_selected.png"/>
+              <!-- Unnamed () -->
+              <div id="u46462" class="text" style="display: none; visibility: hidden">
+                <p><span></span></p>
+              </div>
+            </div>
+            <!-- Unnamed (矩形) -->
+            <div id="u46463" class="" selectiongroup="u46417u46428_tree_group">
+              <div id="u46463_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u46464" class="text" style="visibility: visible;">
+                <p><span>客服管理</span></p>
+              </div>
+            </div>
+            <div id="u46460_children" class="u46460_children">
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46465" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46466" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46466_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46467" class="text" style="visibility: visible;">
+                    <p><span>来电记录明细</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46468" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46469" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46469_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46470" class="text" style="visibility: visible;">
+                    <p><span>来电记录汇总</span></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Unnamed (树节点) -->
+          <div id="u46471" class="ax_default tree_node treenode">
+
+            <!-- Unnamed (图片) -->
+            <div id="u46472" class="ax_default image">
+              <img id="u46472_img" class="img " src="images/我的工作台/u107_selected.png"/>
+              <!-- Unnamed () -->
+              <div id="u46473" class="text" style="display: none; visibility: hidden">
+                <p><span></span></p>
+              </div>
+            </div>
+            <!-- Unnamed (矩形) -->
+            <div id="u46474" class="" selectiongroup="u46417u46428_tree_group">
+              <div id="u46474_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u46475" class="text" style="visibility: visible;">
+                <p><span>数据管理</span></p>
+              </div>
+            </div>
+            <div id="u46471_children" class="u46471_children">
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46476" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46477" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46477_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46478" class="text" style="visibility: visible;">
+                    <p><span>商户</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46479" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46480" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46480_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46481" class="text" style="visibility: visible;">
+                    <p><span>终端</span></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Unnamed (树节点) -->
+          <div id="u46482" class="ax_default tree_node treenode">
+
+            <!-- Unnamed (图片) -->
+            <div id="u46483" class="ax_default image">
+              <img id="u46483_img" class="img " src="images/我的工作台/u107_selected.png"/>
+              <!-- Unnamed () -->
+              <div id="u46484" class="text" style="display: none; visibility: hidden">
+                <p><span></span></p>
+              </div>
+            </div>
+            <!-- Unnamed (矩形) -->
+            <div id="u46485" class="" selectiongroup="u46417u46428_tree_group">
+              <div id="u46485_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u46486" class="text" style="visibility: visible;">
+                <p><span>业务管理</span></p>
+              </div>
+            </div>
+            <div id="u46482_children" class="u46482_children">
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46487" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46488" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46488_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46489" class="text" style="visibility: visible;">
+                    <p><span>渠道商户管理</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46490" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46491" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46491_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46492" class="text" style="visibility: visible;">
+                    <p><span>批换终端</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46493" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46494" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46494_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46495" class="text" style="visibility: visible;">
+                    <p><span>渠道商户报备</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46496" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46497" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46497_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46498" class="text" style="visibility: visible;">
+                    <p><span>交易规则设置</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46499" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46500" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46500_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46501" class="text" style="visibility: visible;">
+                    <p><span>路由规则管理</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46502" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46503" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46503_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46504" class="text" style="visibility: visible;">
+                    <p><span>调拨交易汇总</span></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Unnamed (树节点) -->
+          <div id="u46505" class="ax_default tree_node treenode">
+
+            <!-- Unnamed (图片) -->
+            <div id="u46506" class="ax_default image">
+              <img id="u46506_img" class="img " src="images/我的工作台/u107_selected.png"/>
+              <!-- Unnamed () -->
+              <div id="u46507" class="text" style="display: none; visibility: hidden">
+                <p><span></span></p>
+              </div>
+            </div>
+            <!-- Unnamed (矩形) -->
+            <div id="u46508" class="" selectiongroup="u46417u46428_tree_group">
+              <div id="u46508_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u46509" class="text" style="visibility: visible;">
+                <p><span>系统管理</span></p>
+              </div>
+            </div>
+            <div id="u46505_children" class="u46505_children">
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46510" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46511" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46511_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46512" class="text" style="visibility: visible;">
+                    <p><span>机构管理</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46513" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46514" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46514_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46515" class="text" style="visibility: visible;">
+                    <p><span>用户管理</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46516" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46517" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46517_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46518" class="text" style="visibility: visible;">
+                    <p><span>角色管理</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46519" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46520" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46520_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46521" class="text" style="visibility: visible;">
+                    <p><span>菜单管理</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46522" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46523" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46523_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46524" class="text" style="visibility: visible;">
+                    <p><span>系统参数配置</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46525" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46526" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46526_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46527" class="text" style="visibility: visible;">
+                    <p><span>客服数据配置</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u46528" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u46529" class="" selectiongroup="u46417u46428_tree_group">
+                  <div id="u46529_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u46530" class="text" style="visibility: visible;">
+                    <p><span>工作流节点管理</span></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u46531" class="ax_default shape">
+        <div id="u46531_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u46532" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u46533" class="ax_default text_field">
+        <input id="u46533_input" type="text" value="请输入电话号码"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u46534" class="ax_default paragraph">
+        <div id="u46534_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u46535" class="text" style="visibility: visible;">
+          <p><span style="color:#00CC33;">空闲</span></p><p><span style="color:#00CC66;">00:00:01</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u46536" class="ax_default html_button">
+        <input id="u46536_input" type="submit" value="外呼"/>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u46537" class="ax_default html_button">
+        <input id="u46537_input" type="submit" value="挂机"/>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u46538" class="ax_default html_button">
+        <input id="u46538_input" type="submit" value="保持"/>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u46539" class="ax_default html_button">
+        <input id="u46539_input" type="submit" value="转移"/>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u46540" class="ax_default html_button">
+        <input id="u46540_input" type="submit" value="咨询"/>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u46541" class="ax_default html_button">
+        <input id="u46541_input" type="submit" value="三方通话"/>
+      </div>
+
+      <!-- Unnamed (单选按钮) -->
+      <div id="u46542" class="ax_default radio_button">
+        <label for="u46542_input">
+          <!-- Unnamed () -->
+          <div id="u46543" class="text" style="visibility: visible;">
+            <p><span>空闲</span></p>
+          </div>
+        </label>
+        <input id="u46542_input" type="radio" value="radio" name="u46417空闲小休忙碌" checked/>
+      </div>
+
+      <!-- Unnamed (单选按钮) -->
+      <div id="u46544" class="ax_default radio_button">
+        <label for="u46544_input">
+          <!-- Unnamed () -->
+          <div id="u46545" class="text" style="visibility: visible;">
+            <p><span>小休</span></p>
+          </div>
+        </label>
+        <input id="u46544_input" type="radio" value="radio" name="u46417空闲小休忙碌"/>
+      </div>
+
+      <!-- Unnamed (单选按钮) -->
+      <div id="u46546" class="ax_default radio_button">
+        <label for="u46546_input">
+          <!-- Unnamed () -->
+          <div id="u46547" class="text" style="visibility: visible;">
+            <p><span>忙碌</span></p>
+          </div>
+        </label>
+        <input id="u46546_input" type="radio" value="radio" name="u46417空闲小休忙碌"/>
+      </div>
+
+      <!-- Unnamed (下拉列表框) -->
+      <div id="u46548" class="ax_default droplist">
+        <select id="u46548_input">
+          <option selected value="接听方式-语言网关">接听方式-语言网关</option>
+          <option value="接听方式-直线电话">接听方式-直线电话</option>
+        </select>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u46549" class="ax_default paragraph">
+        <div id="u46549_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u46550" class="text" style="visibility: visible;">
+          <p><span>备注1：软电话条做成一个可移动的小界面，需要做权限控制，如果是客服人员登录，就显示出来，其他人员登录不显示</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u46551" class="ax_default paragraph">
+        <div id="u46551_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u46552" class="text" style="visibility: visible;">
+          <p><span>接听方式：1）两个选项：语音网关，直线电话。默认：语音网关</span></p><p><span>&nbsp;&nbsp;&nbsp; 2）改变接听方式后系统自动切换，无需退出重新登录。</span></p><p><span>&nbsp;&nbsp;&nbsp; 3）另外需要做权限控制，之后客服登录后才能看到。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u46553" class="ax_default paragraph">
+        <img id="u46553_img" class="img " src="images/我的工作台/u227.png"/>
+        <!-- Unnamed () -->
+        <div id="u46554" class="text" style="visibility: visible;">
+          <p><span>带筛选功能的页面，点击筛选展开后‘ +’号变‘-’号</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u46555" class="ax_default label">
+        <div id="u46555_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u46556" class="text" style="visibility: visible;">
+          <p><span>软电话条暂不做</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u46557" class="ax_default label">
+        <div id="u46557_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u46558" class="text" style="visibility: visible;">
+          <p><span>修改密码</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u46559" class="ax_default paragraph">
+        <div id="u46559_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u46560" class="text" style="visibility: visible;">
+          <p><span>短信内容：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u46561" class="ax_default text_area">
+        <textarea id="u46561_input">【嘉联支付】周三，我在立刷，求偶遇！APP签到100积分免费领，带上积分去“买官”！搜索官方订阅号：立刷，一起来玩！退订回复TD</textarea>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u46562" class="ax_default html_button">
+        <input id="u46562_input" type="submit" value="确认"/>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u46563" class="ax_default html_button">
+        <input id="u46563_input" type="submit" value="取消"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u46564" class="ax_default paragraph">
+        <div id="u46564_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u46565" class="text" style="visibility: visible;">
+          <p><span>必填项</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

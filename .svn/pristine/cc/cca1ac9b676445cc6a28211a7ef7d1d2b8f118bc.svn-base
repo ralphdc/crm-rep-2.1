@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>查看角色</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/查看角色/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/查看角色/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u45307" class="ax_default text_area">
+        <textarea id="u45307_input"></textarea>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u45308" class="ax_default text_area">
+        <textarea id="u45308_input"></textarea>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45309" class="ax_default box_1">
+        <div id="u45309_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45310" class="text" style="visibility: visible;">
+          <p><span>已有角色</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45311" class="ax_default box_1">
+        <div id="u45311_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45312" class="text" style="visibility: visible;">
+          <p><span>未有角色</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45313" class="ax_default label">
+        <div id="u45313_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45314" class="text" style="visibility: visible;">
+          <p><span>撤机客服回访</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45315" class="ax_default label">
+        <div id="u45315_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45316" class="text" style="visibility: visible;">
+          <p><span>业务员</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45317" class="ax_default label">
+        <div id="u45317_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45318" class="text" style="visibility: visible;">
+          <p><span>财务经办</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45319" class="ax_default label">
+        <div id="u45319_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45320" class="text" style="visibility: visible;">
+          <p><span>进件审核</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45321" class="ax_default label">
+        <div id="u45321_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45322" class="text" style="visibility: visible;">
+          <p><span>因菜单和角色绑定还需要考虑按钮和元素信息，</span></p><p><span>所以此处暂时只能查看，不能修改角色</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45323" class="ax_default label">
+        <div id="u45323_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45324" class="text" style="visibility: visible;">
+          <p><span>财务审核</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u45325" class="ax_default html_button">
+        <input id="u45325_input" type="submit" value="关闭"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45326" class="ax_default label">
+        <div id="u45326_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45327" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">当前选中菜单：</span><span style="font-family:'Arial Negreta', 'Arial Normal', 'Arial';font-weight:700;">客户管理——商户</span><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">，角色信息如下：</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,773 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>设置批换条件</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/设置批换条件/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/设置批换条件/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (单选按钮) -->
+      <div id="u37651" class="ax_default radio_button">
+        <label for="u37651_input">
+          <!-- Unnamed () -->
+          <div id="u37652" class="text" style="visibility: visible;">
+            <p><span>接入端</span></p>
+          </div>
+        </label>
+        <input id="u37651_input" type="radio" value="radio" name="接入渠道端" checked/>
+      </div>
+
+      <!-- Unnamed (单选按钮) -->
+      <div id="u37653" class="ax_default radio_button">
+        <label for="u37653_input">
+          <!-- Unnamed () -->
+          <div id="u37654" class="text" style="visibility: visible;">
+            <p><span>渠道端</span></p>
+          </div>
+        </label>
+        <input id="u37653_input" type="radio" value="radio" name="接入渠道端"/>
+      </div>
+
+      <!-- 接入渠道端 (动态面板) -->
+      <div id="u37655" class="ax_default" data-label="接入渠道端">
+        <div id="u37655_state0" class="panel_state" data-label="接入端">
+          <div id="u37655_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37656" class="ax_default paragraph">
+              <div id="u37656_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37657" class="text" style="visibility: visible;">
+                <p><span>商户名称：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37658" class="ax_default text_field">
+              <input id="u37658_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (图片) -->
+            <div id="u37659" class="ax_default image">
+              <img id="u37659_img" class="img " src="images/设置批换条件/u37659.png"/>
+              <!-- Unnamed () -->
+              <div id="u37660" class="text" style="display: none; visibility: hidden">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37661" class="ax_default paragraph">
+              <div id="u37661_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37662" class="text" style="visibility: visible;">
+                <p><span>上面选择接入端，这里商户名称就是接入端的商户名称，如果选择渠道端，这里就是渠道端的商户名称</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37663" class="ax_default paragraph">
+              <div id="u37663_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37664" class="text" style="visibility: visible;">
+                <p><span>商户状态：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37665" class="ax_default paragraph">
+              <div id="u37665_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37666" class="text" style="visibility: visible;">
+                <p><span>上面选择接入端，这里商户名称就是接入端的商户名称，如果选择渠道端，这里就是渠道端的商户名称</span></p><p><span>商户状态下拉框内容以数据库为准</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (下拉列表框) -->
+            <div id="u37667" class="ax_default droplist">
+              <select id="u37667_input">
+                <option value="---请选择---">---请选择---</option>
+                <option value="启用">启用</option>
+                <option value="停用">停用</option>
+                <option value="注销">注销</option>
+              </select>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37668" class="ax_default paragraph">
+              <div id="u37668_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37669" class="text" style="visibility: visible;">
+                <p><span>交易额起止时间：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37670" class="ax_default text_field">
+              <input id="u37670_input" type="text" value="选择起始日期"/>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37671" class="ax_default text_field">
+              <input id="u37671_input" type="text" value="选择起始时间"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37672" class="ax_default paragraph">
+              <div id="u37672_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37673" class="text" style="visibility: visible;">
+                <p><span>--</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37674" class="ax_default text_field">
+              <input id="u37674_input" type="text" value="选择结束日期"/>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37675" class="ax_default text_field">
+              <input id="u37675_input" type="text" value="选择结束时间"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37676" class="ax_default paragraph">
+              <div id="u37676_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37677" class="text" style="visibility: visible;">
+                <p><span>交易金额：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37678" class="ax_default text_field">
+              <input id="u37678_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37679" class="ax_default paragraph">
+              <div id="u37679_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37680" class="text" style="visibility: visible;">
+                <p><span>万 以上</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37681" class="ax_default paragraph">
+              <div id="u37681_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37682" class="text" style="visibility: visible;">
+                <p><span>左右端商户名称是否一致：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u37683" class="ax_default radio_button">
+              <label for="u37683_input">
+                <!-- Unnamed () -->
+                <div id="u37684" class="text" style="visibility: visible;">
+                  <p><span>一致</span></p>
+                </div>
+              </label>
+              <input id="u37683_input" type="radio" value="radio" name="商户名是否一致"/>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u37685" class="ax_default radio_button">
+              <label for="u37685_input">
+                <!-- Unnamed () -->
+                <div id="u37686" class="text" style="visibility: visible;">
+                  <p><span>不一致</span></p>
+                </div>
+              </label>
+              <input id="u37685_input" type="radio" value="radio" name="商户名是否一致"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37687" class="ax_default paragraph">
+              <div id="u37687_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37688" class="text" style="visibility: visible;">
+                <p><span>商户号终端号是否一致：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u37689" class="ax_default radio_button">
+              <label for="u37689_input">
+                <!-- Unnamed () -->
+                <div id="u37690" class="text" style="visibility: visible;">
+                  <p><span>一致</span></p>
+                </div>
+              </label>
+              <input id="u37689_input" type="radio" value="radio" name="商户号终端号是否一致"/>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u37691" class="ax_default radio_button">
+              <label for="u37691_input">
+                <!-- Unnamed () -->
+                <div id="u37692" class="text" style="visibility: visible;">
+                  <p><span>不一致</span></p>
+                </div>
+              </label>
+              <input id="u37691_input" type="radio" value="radio" name="商户号终端号是否一致"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37693" class="ax_default paragraph">
+              <div id="u37693_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37694" class="text" style="visibility: visible;">
+                <p><span>MCC：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37695" class="ax_default text_field">
+              <input id="u37695_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (图片) -->
+            <div id="u37696" class="ax_default image">
+              <img id="u37696_img" class="img " src="images/设置批换条件/u37659.png"/>
+              <!-- Unnamed () -->
+              <div id="u37697" class="text" style="display: none; visibility: hidden">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37698" class="ax_default paragraph">
+              <div id="u37698_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37699" class="text" style="visibility: visible;">
+                <p><span>-</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37700" class="ax_default text_field">
+              <input id="u37700_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37701" class="ax_default paragraph">
+              <div id="u37701_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37702" class="text" style="visibility: visible;">
+                <p><span>支持录入和检索，前一个框显示编号，后一个框显示行业名称，输入编号可以自动带出行业名称</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37703" class="ax_default paragraph">
+              <div id="u37703_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37704" class="text" style="visibility: visible;">
+                <p><span>交易金额根据上面选择的时间范围进行计算，没有选的话就统计所有的。</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37705" class="ax_default paragraph">
+              <div id="u37705_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37706" class="text" style="visibility: visible;">
+                <p><span>装机地址：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37707" class="ax_default text_field">
+              <input id="u37707_input" type="text" value="省"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37708" class="ax_default paragraph">
+              <div id="u37708_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37709" class="text" style="visibility: visible;">
+                <p><span>-</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37710" class="ax_default text_field">
+              <input id="u37710_input" type="text" value="市"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37711" class="ax_default paragraph">
+              <div id="u37711_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37712" class="text" style="visibility: visible;">
+                <p><span>业务员：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37713" class="ax_default text_field">
+              <input id="u37713_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (图片) -->
+            <div id="u37714" class="ax_default image">
+              <img id="u37714_img" class="img " src="images/设置批换条件/u37659.png"/>
+              <!-- Unnamed () -->
+              <div id="u37715" class="text" style="display: none; visibility: hidden">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37716" class="ax_default paragraph">
+              <div id="u37716_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37717" class="text" style="visibility: visible;">
+                <p><span>代理商：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37718" class="ax_default text_field">
+              <input id="u37718_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (图片) -->
+            <div id="u37719" class="ax_default image">
+              <img id="u37719_img" class="img " src="images/设置批换条件/u37659.png"/>
+              <!-- Unnamed () -->
+              <div id="u37720" class="text" style="display: none; visibility: hidden">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37721" class="ax_default paragraph">
+              <div id="u37721_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37722" class="text" style="visibility: visible;">
+                <p><span>商户类别：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u37723" class="ax_default radio_button">
+              <label for="u37723_input">
+                <!-- Unnamed () -->
+                <div id="u37724" class="text" style="visibility: visible;">
+                  <p><span>标准商户</span></p>
+                </div>
+              </label>
+              <input id="u37723_input" type="radio" value="radio" name="商户类别"/>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u37725" class="ax_default radio_button">
+              <label for="u37725_input">
+                <!-- Unnamed () -->
+                <div id="u37726" class="text" style="visibility: visible;">
+                  <p><span>非标准商户</span></p>
+                </div>
+              </label>
+              <input id="u37725_input" type="radio" value="radio" name="商户类别"/>
+            </div>
+          </div>
+        </div>
+        <div id="u37655_state1" class="panel_state" data-label="渠道端" style="display: none; visibility: hidden;">
+          <div id="u37655_state1_content" class="panel_state_content">
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37727" class="ax_default paragraph">
+              <div id="u37727_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37728" class="text" style="visibility: visible;">
+                <p><span>商户名称：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37729" class="ax_default text_field">
+              <input id="u37729_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (图片) -->
+            <div id="u37730" class="ax_default image">
+              <img id="u37730_img" class="img " src="images/设置批换条件/u37659.png"/>
+              <!-- Unnamed () -->
+              <div id="u37731" class="text" style="display: none; visibility: hidden">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37732" class="ax_default paragraph">
+              <div id="u37732_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37733" class="text" style="visibility: visible;">
+                <p><span>上面选择接入端，这里商户名称就是接入端的商户名称，如果选择渠道端，这里就是渠道端的商户名称</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37734" class="ax_default paragraph">
+              <div id="u37734_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37735" class="text" style="visibility: visible;">
+                <p><span>商户状态：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37736" class="ax_default paragraph">
+              <div id="u37736_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37737" class="text" style="visibility: visible;">
+                <p><span>上面选择接入端，这里商户名称就是接入端的商户名称，如果选择渠道端，这里就是渠道端的商户名称</span></p><p><span>商户状态下拉框内容以数据库为准</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (下拉列表框) -->
+            <div id="u37738" class="ax_default droplist">
+              <select id="u37738_input">
+                <option value="---请选择---">---请选择---</option>
+                <option value="启用">启用</option>
+                <option value="停用">停用</option>
+                <option value="注销">注销</option>
+              </select>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37739" class="ax_default paragraph">
+              <div id="u37739_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37740" class="text" style="visibility: visible;">
+                <p><span>交易额起止时间：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37741" class="ax_default text_field">
+              <input id="u37741_input" type="text" value="选择起始日期"/>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37742" class="ax_default text_field">
+              <input id="u37742_input" type="text" value="选择起始时间"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37743" class="ax_default paragraph">
+              <div id="u37743_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37744" class="text" style="visibility: visible;">
+                <p><span>--</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37745" class="ax_default text_field">
+              <input id="u37745_input" type="text" value="选择结束日期"/>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37746" class="ax_default text_field">
+              <input id="u37746_input" type="text" value="选择结束时间"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37747" class="ax_default paragraph">
+              <div id="u37747_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37748" class="text" style="visibility: visible;">
+                <p><span>交易金额：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37749" class="ax_default text_field">
+              <input id="u37749_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37750" class="ax_default paragraph">
+              <div id="u37750_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37751" class="text" style="visibility: visible;">
+                <p><span>万 以上</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37752" class="ax_default paragraph">
+              <div id="u37752_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37753" class="text" style="visibility: visible;">
+                <p><span>左右端商户名称是否一致：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u37754" class="ax_default radio_button">
+              <label for="u37754_input">
+                <!-- Unnamed () -->
+                <div id="u37755" class="text" style="visibility: visible;">
+                  <p><span>一致</span></p>
+                </div>
+              </label>
+              <input id="u37754_input" type="radio" value="radio" name="商户名是否一致"/>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u37756" class="ax_default radio_button">
+              <label for="u37756_input">
+                <!-- Unnamed () -->
+                <div id="u37757" class="text" style="visibility: visible;">
+                  <p><span>不一致</span></p>
+                </div>
+              </label>
+              <input id="u37756_input" type="radio" value="radio" name="商户名是否一致"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37758" class="ax_default paragraph">
+              <div id="u37758_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37759" class="text" style="visibility: visible;">
+                <p><span>商户号终端号是否一致：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u37760" class="ax_default radio_button">
+              <label for="u37760_input">
+                <!-- Unnamed () -->
+                <div id="u37761" class="text" style="visibility: visible;">
+                  <p><span>一致</span></p>
+                </div>
+              </label>
+              <input id="u37760_input" type="radio" value="radio" name="商户号终端号是否一致"/>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u37762" class="ax_default radio_button">
+              <label for="u37762_input">
+                <!-- Unnamed () -->
+                <div id="u37763" class="text" style="visibility: visible;">
+                  <p><span>不一致</span></p>
+                </div>
+              </label>
+              <input id="u37762_input" type="radio" value="radio" name="商户号终端号是否一致"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37764" class="ax_default paragraph">
+              <div id="u37764_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37765" class="text" style="visibility: visible;">
+                <p><span>MCC：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37766" class="ax_default text_field">
+              <input id="u37766_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (图片) -->
+            <div id="u37767" class="ax_default image">
+              <img id="u37767_img" class="img " src="images/设置批换条件/u37659.png"/>
+              <!-- Unnamed () -->
+              <div id="u37768" class="text" style="display: none; visibility: hidden">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37769" class="ax_default paragraph">
+              <div id="u37769_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37770" class="text" style="visibility: visible;">
+                <p><span>-</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37771" class="ax_default text_field">
+              <input id="u37771_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37772" class="ax_default paragraph">
+              <div id="u37772_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37773" class="text" style="visibility: visible;">
+                <p><span>支持录入和检索，前一个框显示编号，后一个框显示行业名称，输入编号可以自动带出行业名称</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37774" class="ax_default paragraph">
+              <div id="u37774_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37775" class="text" style="visibility: visible;">
+                <p><span>交易金额根据上面选择的时间范围进行计算，没有选的话就统计所有的。</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37776" class="ax_default paragraph">
+              <div id="u37776_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37777" class="text" style="visibility: visible;">
+                <p><span>地区代码：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37778" class="ax_default text_field">
+              <input id="u37778_input" type="text" value="省"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37779" class="ax_default paragraph">
+              <div id="u37779_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37780" class="text" style="visibility: visible;">
+                <p><span>-</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u37781" class="ax_default text_field">
+              <input id="u37781_input" type="text" value="市"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37782" class="ax_default paragraph">
+              <div id="u37782_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37783" class="text" style="visibility: visible;">
+                <p><span>计费类型：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37784" class="ax_default paragraph">
+              <div id="u37784_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37785" class="text" style="visibility: visible;">
+                <p><span>商户类别：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u37786" class="ax_default radio_button">
+              <label for="u37786_input">
+                <!-- Unnamed () -->
+                <div id="u37787" class="text" style="visibility: visible;">
+                  <p><span>标准商户</span></p>
+                </div>
+              </label>
+              <input id="u37786_input" type="radio" value="radio" name="商户类别"/>
+            </div>
+
+            <!-- Unnamed (单选按钮) -->
+            <div id="u37788" class="ax_default radio_button">
+              <label for="u37788_input">
+                <!-- Unnamed () -->
+                <div id="u37789" class="text" style="visibility: visible;">
+                  <p><span>非标准商户</span></p>
+                </div>
+              </label>
+              <input id="u37788_input" type="radio" value="radio" name="商户类别"/>
+            </div>
+
+            <!-- Unnamed (下拉列表框) -->
+            <div id="u37790" class="ax_default droplist">
+              <select id="u37790_input">
+                <option selected value="---请选择---">---请选择---</option>
+              </select>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u37791" class="ax_default paragraph">
+              <div id="u37791_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u37792" class="text" style="visibility: visible;">
+                <p><span>计费类型下拉框内容参考数据库定义</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u37793" class="ax_default html_button">
+        <input id="u37793_input" type="submit" value="我已设置完毕，导出文件"/>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u37794" class="ax_default html_button">
+        <input id="u37794_input" type="submit" value="取消"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u37795" class="ax_default paragraph">
+        <div id="u37795_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u37796" class="text" style="visibility: visible;">
+          <p><span>导出文件格式见附件：changetermdemos.xls</span></p><p><span>以上条件设置完毕后，根据设置的条件选出合适的终端，按以上格式导出数据</span></p><p><span><br></span></p><p><span>然后业务人员可以修改导出的文件，修改后通过批换终端按钮操作导入</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

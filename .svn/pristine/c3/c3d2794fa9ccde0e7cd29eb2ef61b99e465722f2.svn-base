@@ -1,0 +1,272 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>实名查看详情</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/实名查看详情/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/实名查看详情/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26736" class="ax_default paragraph">
+        <img id="u26736_img" class="img " src="images/进件/u1029.png"/>
+        <!-- Unnamed () -->
+        <div id="u26737" class="text" style="visibility: visible;">
+          <p><span>店铺名称</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26738" class="ax_default paragraph">
+        <img id="u26738_img" class="img " src="images/审批实名白名单/u15451.png"/>
+        <!-- Unnamed () -->
+        <div id="u26739" class="text" style="visibility: visible;">
+          <p><span>承租人姓名/手机号</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26740" class="ax_default paragraph">
+        <img id="u26740_img" class="img " src="images/进件审核/u1168.png"/>
+        <!-- Unnamed () -->
+        <div id="u26741" class="text" style="visibility: visible;">
+          <p><span>承租人身份证号码</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26742" class="ax_default paragraph">
+        <div id="u26742_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u26743" class="text" style="visibility: visible;">
+          <p><span>实名白名单-查看详情</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u26744" class="ax_default line">
+        <img id="u26744_img" class="img " src="images/审批工商白名单/u15197.png"/>
+        <!-- Unnamed () -->
+        <div id="u26745" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26746" class="ax_default text_field">
+        <input id="u26746_input" type="text" value="深圳市美味通餐饮"/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26747" class="ax_default text_field">
+        <input id="u26747_input" type="text" value="张三"/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26748" class="ax_default text_field">
+        <input id="u26748_input" type="text" value="123456789123456789"/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26749" class="ax_default text_field">
+        <input id="u26749_input" type="text" value="13300000000"/>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26750" class="ax_default paragraph">
+        <img id="u26750_img" class="img " src="images/进件审核/u1083.png"/>
+        <!-- Unnamed () -->
+        <div id="u26751" class="text" style="visibility: visible;">
+          <p><span>白名单说明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u26752" class="ax_default text_area">
+        <textarea id="u26752_input"></textarea>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26753" class="ax_default paragraph">
+        <img id="u26753_img" class="img " src="images/进件审核/u1083.png"/>
+        <!-- Unnamed () -->
+        <div id="u26754" class="text" style="visibility: visible;">
+          <p><span>所属代理商</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26755" class="ax_default text_field">
+        <input id="u26755_input" type="text" value="深圳市通宝支付"/>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26756" class="ax_default paragraph">
+        <img id="u26756_img" class="img " src="images/审批实名白名单/u15451.png"/>
+        <!-- Unnamed () -->
+        <div id="u26757" class="text" style="visibility: visible;">
+          <p><span>出租人姓名/手机号</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26758" class="ax_default text_field">
+        <input id="u26758_input" type="text" value="张三"/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26759" class="ax_default text_field">
+        <input id="u26759_input" type="text" value="123456789123456789"/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26760" class="ax_default text_field">
+        <input id="u26760_input" type="text" value="13300000000"/>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26761" class="ax_default paragraph">
+        <img id="u26761_img" class="img " src="images/进件审核/u1168.png"/>
+        <!-- Unnamed () -->
+        <div id="u26762" class="text" style="visibility: visible;">
+          <p><span>出租人身份证号码</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26763" class="ax_default paragraph">
+        <img id="u26763_img" class="img " src="images/进件审核/u1085.png"/>
+        <!-- Unnamed () -->
+        <div id="u26764" class="text" style="visibility: visible;">
+          <p><span>附件</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u26765" class="ax_default image">
+        <img id="u26765_img" class="img " src="images/审批商户归属白名单/u17132.png"/>
+        <!-- Unnamed () -->
+        <div id="u26766" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26767" class="ax_default label">
+        <div id="u26767_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u26768" class="text" style="visibility: visible;">
+          <p><span>租赁合同1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u26769" class="ax_default image">
+        <img id="u26769_img" class="img " src="images/审批商户归属白名单/u17132.png"/>
+        <!-- Unnamed () -->
+        <div id="u26770" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26771" class="ax_default label">
+        <div id="u26771_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u26772" class="text" style="visibility: visible;">
+          <p><span>租赁合同2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26773" class="ax_default label">
+        <div id="u26773_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u26774" class="text" style="visibility: visible;">
+          <p><span>点击图片可以查看附件原图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u26775" class="ax_default image">
+        <img id="u26775_img" class="img " src="images/导出资料报批/u1921.png"/>
+        <!-- Unnamed () -->
+        <div id="u26776" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26777" class="ax_default paragraph">
+        <img id="u26777_img" class="img " src="images/进件/u1029.png"/>
+        <!-- Unnamed () -->
+        <div id="u26778" class="text" style="visibility: visible;">
+          <p><span>审核状态</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26779" class="ax_default text_field">
+        <input id="u26779_input" type="text" value=""/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26780" class="ax_default label">
+        <div id="u26780_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u26781" class="text" style="visibility: visible;">
+          <p><span>审核备注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u26782" class="ax_default text_area">
+        <textarea id="u26782_input">100个汉字内</textarea>
+      </div>
+    </div>
+  </body>
+</html>

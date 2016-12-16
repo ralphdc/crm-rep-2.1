@@ -1,0 +1,479 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>零交易撤机申请-CRM</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/零交易撤机申请-crm/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/零交易撤机申请-crm/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (文本框) -->
+      <div id="u24340" class="ax_default text_field">
+        <input id="u24340_input" type="text" value=""/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u24341" class="ax_default text_field">
+        <input id="u24341_input" type="text" value="选择后显示文件名称"/>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u24342" class="ax_default html_button">
+        <input id="u24342_input" type="submit" value="导入"/>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u24343" class="ax_default paragraph">
+        <img id="u24343_img" class="img " src="images/审批清算时间白名单/u16201.png"/>
+        <!-- Unnamed () -->
+        <div id="u24344" class="text" style="visibility: visible;">
+          <p><span style="text-decoration:underline;">选择零交易撤机文件</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24345" class="ax_default label">
+        <div id="u24345_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24346" class="text" style="visibility: visible;">
+          <p><span>点击导入，处理完成后显示导入错误的信息，每次不超过10000条</span></p><p><span>导入错误的，修改后可以重新导入。</span></p><p><span>已经成功提交撤机的不能再次导入</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24347" class="ax_default label">
+        <div id="u24347_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24348" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24349" class="ax_default label">
+        <div id="u24349_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24350" class="text" style="visibility: visible;">
+          <p><span>零交易撤机申请</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u24351" class="ax_default horizontal_line">
+        <img id="u24351_img" class="img " src="images/导出资料报批/u1919.png"/>
+        <!-- Unnamed () -->
+        <div id="u24352" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u24353" class="ax_default image">
+        <img id="u24353_img" class="img " src="images/导出资料报批/u1921.png"/>
+        <!-- Unnamed () -->
+        <div id="u24354" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24355" class="ax_default shape">
+        <div id="u24355_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24356" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u24357" class="ax_default horizontal_line">
+        <img id="u24357_img" class="img " src="images/零交易撤机申请-crm/u24357.png"/>
+        <!-- Unnamed () -->
+        <div id="u24358" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24359" class="ax_default paragraph">
+        <div id="u24359_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24360" class="text" style="visibility: visible;">
+          <p><span>批量导入</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u24361" class="ax_default image">
+        <img id="u24361_img" class="img " src="images/导出资料报批/u1921.png"/>
+        <!-- Unnamed () -->
+        <div id="u24362" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24363" class="ax_default paragraph">
+        <div id="u24363_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24364" class="text" style="visibility: visible;">
+          <p><span>您本次共导入数据100条，其中成功96条，失败4条，失败数据即失败原因见下表：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u24365" class="ax_default table">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24366" class="ax_default table_cell">
+          <img id="u24366_img" class="img " src="images/提交变更申请-crm/u22346.png"/>
+          <!-- Unnamed () -->
+          <div id="u24367" class="text" style="visibility: visible;">
+            <p><span>商户号</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24368" class="ax_default table_cell">
+          <img id="u24368_img" class="img " src="images/零交易撤机申请-crm/u24368.png"/>
+          <!-- Unnamed () -->
+          <div id="u24369" class="text" style="visibility: visible;">
+            <p><span>终端号</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24370" class="ax_default table_cell">
+          <img id="u24370_img" class="img " src="images/零交易撤机申请-crm/u24370.png"/>
+          <!-- Unnamed () -->
+          <div id="u24371" class="text" style="visibility: visible;">
+            <p><span>机身号</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24372" class="ax_default table_cell">
+          <img id="u24372_img" class="img " src="images/零交易撤机申请-crm/u24372.png"/>
+          <!-- Unnamed () -->
+          <div id="u24373" class="text" style="visibility: visible;">
+            <p><span>失败原因</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24374" class="ax_default table_cell">
+          <img id="u24374_img" class="img " src="images/提交变更申请-crm/u22354.png"/>
+          <!-- Unnamed () -->
+          <div id="u24375" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24376" class="ax_default table_cell">
+          <img id="u24376_img" class="img " src="images/已处理业务/u17392.png"/>
+          <!-- Unnamed () -->
+          <div id="u24377" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24378" class="ax_default table_cell">
+          <img id="u24378_img" class="img " src="images/零交易撤机申请-crm/u24378.png"/>
+          <!-- Unnamed () -->
+          <div id="u24379" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24380" class="ax_default table_cell">
+          <img id="u24380_img" class="img " src="images/零交易撤机申请-crm/u24380.png"/>
+          <!-- Unnamed () -->
+          <div id="u24381" class="text" style="visibility: visible;">
+            <p><span>系统已存在</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24382" class="ax_default table_cell">
+          <img id="u24382_img" class="img " src="images/提交变更申请-crm/u22354.png"/>
+          <!-- Unnamed () -->
+          <div id="u24383" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24384" class="ax_default table_cell">
+          <img id="u24384_img" class="img " src="images/已处理业务/u17392.png"/>
+          <!-- Unnamed () -->
+          <div id="u24385" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24386" class="ax_default table_cell">
+          <img id="u24386_img" class="img " src="images/零交易撤机申请-crm/u24378.png"/>
+          <!-- Unnamed () -->
+          <div id="u24387" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24388" class="ax_default table_cell">
+          <img id="u24388_img" class="img " src="images/零交易撤机申请-crm/u24380.png"/>
+          <!-- Unnamed () -->
+          <div id="u24389" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24390" class="ax_default table_cell">
+          <img id="u24390_img" class="img " src="images/提交变更申请-crm/u22354.png"/>
+          <!-- Unnamed () -->
+          <div id="u24391" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24392" class="ax_default table_cell">
+          <img id="u24392_img" class="img " src="images/已处理业务/u17392.png"/>
+          <!-- Unnamed () -->
+          <div id="u24393" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24394" class="ax_default table_cell">
+          <img id="u24394_img" class="img " src="images/零交易撤机申请-crm/u24378.png"/>
+          <!-- Unnamed () -->
+          <div id="u24395" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24396" class="ax_default table_cell">
+          <img id="u24396_img" class="img " src="images/零交易撤机申请-crm/u24380.png"/>
+          <!-- Unnamed () -->
+          <div id="u24397" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24398" class="ax_default table_cell">
+          <img id="u24398_img" class="img " src="images/提交变更申请-crm/u22354.png"/>
+          <!-- Unnamed () -->
+          <div id="u24399" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24400" class="ax_default table_cell">
+          <img id="u24400_img" class="img " src="images/已处理业务/u17392.png"/>
+          <!-- Unnamed () -->
+          <div id="u24401" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24402" class="ax_default table_cell">
+          <img id="u24402_img" class="img " src="images/零交易撤机申请-crm/u24378.png"/>
+          <!-- Unnamed () -->
+          <div id="u24403" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24404" class="ax_default table_cell">
+          <img id="u24404_img" class="img " src="images/零交易撤机申请-crm/u24380.png"/>
+          <!-- Unnamed () -->
+          <div id="u24405" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24406" class="ax_default table_cell">
+          <img id="u24406_img" class="img " src="images/提交变更申请-crm/u22354.png"/>
+          <!-- Unnamed () -->
+          <div id="u24407" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24408" class="ax_default table_cell">
+          <img id="u24408_img" class="img " src="images/已处理业务/u17392.png"/>
+          <!-- Unnamed () -->
+          <div id="u24409" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24410" class="ax_default table_cell">
+          <img id="u24410_img" class="img " src="images/零交易撤机申请-crm/u24378.png"/>
+          <!-- Unnamed () -->
+          <div id="u24411" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24412" class="ax_default table_cell">
+          <img id="u24412_img" class="img " src="images/零交易撤机申请-crm/u24380.png"/>
+          <!-- Unnamed () -->
+          <div id="u24413" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24414" class="ax_default table_cell">
+          <img id="u24414_img" class="img " src="images/提交变更申请-crm/u22378.png"/>
+          <!-- Unnamed () -->
+          <div id="u24415" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24416" class="ax_default table_cell">
+          <img id="u24416_img" class="img " src="images/单个人员选择/u18127.png"/>
+          <!-- Unnamed () -->
+          <div id="u24417" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24418" class="ax_default table_cell">
+          <img id="u24418_img" class="img " src="images/零交易撤机申请-crm/u24418.png"/>
+          <!-- Unnamed () -->
+          <div id="u24419" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u24420" class="ax_default table_cell">
+          <img id="u24420_img" class="img " src="images/零交易撤机申请-crm/u24420.png"/>
+          <!-- Unnamed () -->
+          <div id="u24421" class="text" style="display: none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24422" class="ax_default paragraph">
+        <div id="u24422_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24423" class="text" style="visibility: visible;">
+          <p><span>或失败数据量超过50条，请下载附件：XXXXXX.xls</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24424" class="ax_default paragraph">
+        <div id="u24424_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24425" class="text" style="visibility: visible;">
+          <p><span>附件内容：商户号，终端号，机身号，失败原因</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24426" class="ax_default paragraph">
+        <div id="u24426_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24427" class="text" style="visibility: visible;">
+          <p><span>暂定超过50条（含）则生成文件下载</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24428" class="ax_default heading_1">
+        <div id="u24428_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24429" class="text" style="visibility: visible;">
+          <p><span>导完后提示</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24430" class="ax_default label">
+        <div id="u24430_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24431" class="text" style="visibility: visible;">
+          <p><span>导入模板内容：商户名称，商户号，终端号，机身号</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u24432" class="ax_default label">
+        <div id="u24432_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u24433" class="text" style="visibility: visible;">
+          <p><span>导入成功后，生成撤机任务，并将成功的终端状态改为停用</span></p><p><span>此时撤机任务状态为待重新启用，如果在90天之内，客服将其改为启用，则该终端的撤机任务结束。</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,623 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>菜单元素管理</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/菜单元素管理/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/菜单元素管理/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45328" class="ax_default heading_3">
+        <div id="u45328_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45329" class="text" style="visibility: visible;">
+          <p><span>如果没有元素</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45330" class="ax_default label">
+        <div id="u45330_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45331" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">当前选中菜单：</span><span style="font-family:'Arial Negreta', 'Arial Normal', 'Arial';font-weight:700;">客户管理——商户</span><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">，元素信息为空，点击</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45332" class="ax_default heading_3">
+        <div id="u45332_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45333" class="text" style="visibility: visible;">
+          <p><span>如果已有元素</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45334" class="ax_default label">
+        <div id="u45334_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45335" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">当前选中菜单：</span><span style="font-family:'Arial Negreta', 'Arial Normal', 'Arial';font-weight:700;">客户管理——商户</span><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">，元素信息如下，点击</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45336" class="ax_default label">
+        <div id="u45336_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45337" class="text" style="visibility: visible;">
+          <p><span>添加元素</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45338" class="ax_default label">
+        <div id="u45338_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45339" class="text" style="visibility: visible;">
+          <p><span>添加新元素</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u45340" class="ax_default html_button">
+        <input id="u45340_input" type="submit" value="保存"/>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u45341" class="ax_default html_button">
+        <input id="u45341_input" type="submit" value="保存"/>
+      </div>
+
+      <!-- 添加元素 (动态面板) -->
+      <div id="u45342" class="ax_default ax_default_hidden" data-label="添加元素" style="display: none; visibility: hidden">
+        <div id="u45342_state0" class="panel_state" data-label="添加元素">
+          <div id="u45342_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45343" class="ax_default label">
+              <div id="u45343_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45344" class="text" style="visibility: visible;">
+                <p><span>元素名称</span><span style="color:#FF0000;">*</span><span>：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u45345" class="ax_default text_field">
+              <input id="u45345_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45346" class="ax_default label">
+              <div id="u45346_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45347" class="text" style="visibility: visible;">
+                <p><span>元素编码</span><span style="color:#FF0000;">*</span><span>：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u45348" class="ax_default text_field">
+              <input id="u45348_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u45349" class="ax_default text_field">
+              <input id="u45349_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u45350" class="ax_default text_field">
+              <input id="u45350_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (提交按钮) -->
+            <div id="u45351" class="ax_default html_button">
+              <input id="u45351_input" type="submit" value="继续添加"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45352" class="ax_default label">
+              <div id="u45352_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45353" class="text" style="visibility: visible;">
+                <p><span>添加本菜单下的元素，可以添加多个，</span></p><p><span>每添加完一个支持删除</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u45354" class="ax_default text_field">
+              <input id="u45354_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u45355" class="ax_default text_field">
+              <input id="u45355_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45356" class="ax_default label">
+              <div id="u45356_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45357" class="text" style="visibility: visible;">
+                <p><span>元素编码</span><span style="color:#FF0000;">*</span><span>：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45358" class="ax_default label">
+              <div id="u45358_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45359" class="text" style="visibility: visible;">
+                <p><span>元素编码</span><span style="color:#FF0000;">*</span><span>：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45360" class="ax_default label">
+              <div id="u45360_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45361" class="text" style="visibility: visible;">
+                <p><span>元素名称</span><span style="color:#FF0000;">*</span><span>：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45362" class="ax_default label">
+              <div id="u45362_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45363" class="text" style="visibility: visible;">
+                <p><span>元素名称</span><span style="color:#FF0000;">*</span><span>：</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (提交按钮) -->
+            <div id="u45364" class="ax_default html_button">
+              <input id="u45364_input" type="submit" value="删除"/>
+            </div>
+
+            <!-- Unnamed (提交按钮) -->
+            <div id="u45365" class="ax_default html_button">
+              <input id="u45365_input" type="submit" value="继续添加"/>
+            </div>
+
+            <!-- Unnamed (提交按钮) -->
+            <div id="u45366" class="ax_default html_button">
+              <input id="u45366_input" type="submit" value="删除"/>
+            </div>
+
+            <!-- Unnamed (提交按钮) -->
+            <div id="u45367" class="ax_default html_button">
+              <input id="u45367_input" type="submit" value="继续添加"/>
+            </div>
+
+            <!-- Unnamed (提交按钮) -->
+            <div id="u45368" class="ax_default html_button">
+              <input id="u45368_input" type="submit" value="删除"/>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u45369" class="ax_default html_button">
+        <input id="u45369_input" type="submit" value="取消"/>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u45370" class="ax_default html_button">
+        <input id="u45370_input" type="submit" value="取消"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45371" class="ax_default label">
+        <div id="u45371_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45372" class="text" style="visibility: visible;">
+          <p><span>点添加新元素，自动在表格下方增加一行，该行支持继续添加和删除，可在输入框内直接修改</span></p>
+        </div>
+      </div>
+
+      <!-- 添加新元素 (动态面板) -->
+      <div id="u45373" class="ax_default" data-label="添加新元素">
+        <div id="u45373_state0" class="panel_state" data-label="已有元素">
+          <div id="u45373_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (表格) -->
+            <div id="u45374" class="ax_default">
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45375" class="ax_default table_cell">
+                <img id="u45375_img" class="img " src="images/终端/u31523.png"/>
+                <!-- Unnamed () -->
+                <div id="u45376" class="text" style="visibility: visible;">
+                  <p><span>元素编码</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45377" class="ax_default table_cell">
+                <img id="u45377_img" class="img " src="images/资源管理/u44860.png"/>
+                <!-- Unnamed () -->
+                <div id="u45378" class="text" style="visibility: visible;">
+                  <p><span>元素名称</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45379" class="ax_default table_cell">
+                <img id="u45379_img" class="img " src="images/资源管理/u44862.png"/>
+                <!-- Unnamed () -->
+                <div id="u45380" class="text" style="visibility: visible;">
+                  <p><span>操作</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45381" class="ax_default table_cell">
+                <img id="u45381_img" class="img " src="images/终端/u31593.png"/>
+                <!-- Unnamed () -->
+                <div id="u45382" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45383" class="ax_default table_cell">
+                <img id="u45383_img" class="img " src="images/所属代理商查找带回/u26634.png"/>
+                <!-- Unnamed () -->
+                <div id="u45384" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45385" class="ax_default table_cell">
+                <img id="u45385_img" class="img " src="images/资源管理/u44868.png"/>
+                <!-- Unnamed () -->
+                <div id="u45386" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45387" class="ax_default table_cell">
+                <img id="u45387_img" class="img " src="images/终端/u31593.png"/>
+                <!-- Unnamed () -->
+                <div id="u45388" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45389" class="ax_default table_cell">
+                <img id="u45389_img" class="img " src="images/所属代理商查找带回/u26634.png"/>
+                <!-- Unnamed () -->
+                <div id="u45390" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45391" class="ax_default table_cell">
+                <img id="u45391_img" class="img " src="images/资源管理/u44868.png"/>
+                <!-- Unnamed () -->
+                <div id="u45392" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45393" class="ax_default table_cell">
+                <img id="u45393_img" class="img " src="images/终端/u32293.png"/>
+                <!-- Unnamed () -->
+                <div id="u45394" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45395" class="ax_default table_cell">
+                <img id="u45395_img" class="img " src="images/所属代理商查找带回/u26658.png"/>
+                <!-- Unnamed () -->
+                <div id="u45396" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45397" class="ax_default table_cell">
+                <img id="u45397_img" class="img " src="images/资源管理/u44880.png"/>
+                <!-- Unnamed () -->
+                <div id="u45398" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45399" class="ax_default label">
+              <div id="u45399_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45400" class="text" style="visibility: visible;">
+                <p><span>修改</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45401" class="ax_default label">
+              <div id="u45401_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45402" class="text" style="visibility: visible;">
+                <p><span>点修改后，元素编码和名称改为可编辑状态</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45403" class="ax_default label">
+              <div id="u45403_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45404" class="text" style="visibility: visible;">
+                <p><span>删除</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45405" class="ax_default label">
+              <div id="u45405_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45406" class="text" style="visibility: visible;">
+                <p><span>修改</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45407" class="ax_default label">
+              <div id="u45407_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45408" class="text" style="visibility: visible;">
+                <p><span>删除</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="u45373_state1" class="panel_state" data-label="添加新元素" style="display: none; visibility: hidden;">
+          <div id="u45373_state1_content" class="panel_state_content">
+
+            <!-- Unnamed (表格) -->
+            <div id="u45409" class="ax_default">
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45410" class="ax_default table_cell">
+                <img id="u45410_img" class="img " src="images/终端/u31523.png"/>
+                <!-- Unnamed () -->
+                <div id="u45411" class="text" style="visibility: visible;">
+                  <p><span>元素编码</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45412" class="ax_default table_cell">
+                <img id="u45412_img" class="img " src="images/资源管理/u44860.png"/>
+                <!-- Unnamed () -->
+                <div id="u45413" class="text" style="visibility: visible;">
+                  <p><span>元素名称</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45414" class="ax_default table_cell">
+                <img id="u45414_img" class="img " src="images/资源管理/u44862.png"/>
+                <!-- Unnamed () -->
+                <div id="u45415" class="text" style="visibility: visible;">
+                  <p><span>操作</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45416" class="ax_default table_cell">
+                <img id="u45416_img" class="img " src="images/终端/u31593.png"/>
+                <!-- Unnamed () -->
+                <div id="u45417" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45418" class="ax_default table_cell">
+                <img id="u45418_img" class="img " src="images/所属代理商查找带回/u26634.png"/>
+                <!-- Unnamed () -->
+                <div id="u45419" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45420" class="ax_default table_cell">
+                <img id="u45420_img" class="img " src="images/资源管理/u44868.png"/>
+                <!-- Unnamed () -->
+                <div id="u45421" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45422" class="ax_default table_cell">
+                <img id="u45422_img" class="img " src="images/终端/u31593.png"/>
+                <!-- Unnamed () -->
+                <div id="u45423" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45424" class="ax_default table_cell">
+                <img id="u45424_img" class="img " src="images/所属代理商查找带回/u26634.png"/>
+                <!-- Unnamed () -->
+                <div id="u45425" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45426" class="ax_default table_cell">
+                <img id="u45426_img" class="img " src="images/资源管理/u44868.png"/>
+                <!-- Unnamed () -->
+                <div id="u45427" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45428" class="ax_default table_cell">
+                <img id="u45428_img" class="img " src="images/终端/u32293.png"/>
+                <!-- Unnamed () -->
+                <div id="u45429" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45430" class="ax_default table_cell">
+                <img id="u45430_img" class="img " src="images/所属代理商查找带回/u26658.png"/>
+                <!-- Unnamed () -->
+                <div id="u45431" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u45432" class="ax_default table_cell">
+                <img id="u45432_img" class="img " src="images/资源管理/u44880.png"/>
+                <!-- Unnamed () -->
+                <div id="u45433" class="text" style="display: none; visibility: hidden">
+                  <p><span></span></p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45434" class="ax_default label">
+              <div id="u45434_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45435" class="text" style="visibility: visible;">
+                <p><span>修改</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45436" class="ax_default label">
+              <div id="u45436_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45437" class="text" style="visibility: visible;">
+                <p><span>点修改后，元素编码和名称改为可编辑状态</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u45438" class="ax_default text_field">
+              <input id="u45438_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (文本框) -->
+            <div id="u45439" class="ax_default text_field">
+              <input id="u45439_input" type="text" value=""/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45440" class="ax_default label">
+              <div id="u45440_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45441" class="text" style="visibility: visible;">
+                <p><span>删除</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45442" class="ax_default label">
+              <div id="u45442_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45443" class="text" style="visibility: visible;">
+                <p><span>修改</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45444" class="ax_default label">
+              <div id="u45444_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45445" class="text" style="visibility: visible;">
+                <p><span>删除</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45446" class="ax_default label">
+              <div id="u45446_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45447" class="text" style="visibility: visible;">
+                <p><span>删除</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u45448" class="ax_default label">
+              <div id="u45448_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u45449" class="text" style="visibility: visible;">
+                <p><span>添加</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

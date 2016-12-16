@@ -1,0 +1,201 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>用户角色关系</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/用户角色关系/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/用户角色关系/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u43961" class="ax_default text_area">
+        <textarea id="u43961_input"></textarea>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43962" class="ax_default box_1">
+        <div id="u43962_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43963" class="text" style="visibility: visible;">
+          <p><span>未有角色</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43964" class="ax_default box_1">
+        <div id="u43964_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43965" class="text" style="visibility: visible;">
+          <p><span>已有角色</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u43966" class="ax_default image">
+        <img id="u43966_img" class="img " src="images/添加用户/u43628.png"/>
+        <!-- Unnamed () -->
+        <div id="u43967" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u43968" class="ax_default image">
+        <img id="u43968_img" class="img " src="images/添加用户/u43630.png"/>
+        <!-- Unnamed () -->
+        <div id="u43969" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43970" class="ax_default label">
+        <div id="u43970_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43971" class="text" style="visibility: visible;">
+          <p><span>业务员</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43972" class="ax_default label">
+        <div id="u43972_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43973" class="text" style="visibility: visible;">
+          <p><span>进件审核</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43974" class="ax_default label">
+        <div id="u43974_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43975" class="text" style="visibility: visible;">
+          <p><span>运维</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u43976" class="ax_default text_area">
+        <textarea id="u43976_input"></textarea>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43977" class="ax_default label">
+        <div id="u43977_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43978" class="text" style="visibility: visible;">
+          <p><span>选择要赋予的未有角色，</span></p><p><span>鼠标双击可以自动分配到已有角色中。</span></p><p><span>同时在未有角色中去除；</span></p><p><span><br></span></p><p><span>或者点击&gt;符号自动分配到已有角色，</span></p><p><span>同时在未有角色中去除</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43979" class="ax_default label">
+        <div id="u43979_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43980" class="text" style="visibility: visible;">
+          <p><span>如果已经赋予的要删除，也可以在已有角色中鼠标</span></p><p><span>双击，或者&lt;符号，自动回到未有角色中，同时</span></p><p><span>已有角色中的去除</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43981" class="ax_default label">
+        <div id="u43981_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43982" class="text" style="visibility: visible;">
+          <p><span>客服</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u43983" class="ax_default html_button">
+        <input id="u43983_input" type="submit" value="保存"/>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u43984" class="ax_default html_button">
+        <input id="u43984_input" type="submit" value="取消"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43985" class="ax_default label">
+        <div id="u43985_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43986" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">当前选中用户：</span><span style="font-family:'Arial Negreta', 'Arial Normal', 'Arial';font-weight:700;">XXX</span><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">，角色信息如下：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43987" class="ax_default label">
+        <div id="u43987_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43988" class="text" style="visibility: visible;">
+          <p><span>只显示状态正常的角色信息</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43989" class="ax_default label">
+        <div id="u43989_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43990" class="text" style="visibility: visible;">
+          <p><span>正常</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43991" class="ax_default label">
+        <div id="u43991_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43992" class="text" style="visibility: visible;">
+          <p><span>显示状态</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,412 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>修改用户</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/修改用户/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/修改用户/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43757" class="ax_default paragraph">
+        <div id="u43757_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43758" class="text" style="visibility: visible;">
+          <p><span>用户名</span><span style="color:#FF0000;">*</span><span style="color:#000000;">：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u43759" class="ax_default text_field">
+        <input id="u43759_input" type="text" value="张三"/>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u43760" class="ax_default html_button">
+        <input id="u43760_input" type="submit" value="保存"/>
+      </div>
+
+      <!-- Unnamed (提交按钮) -->
+      <div id="u43761" class="ax_default html_button">
+        <input id="u43761_input" type="submit" value="取消"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43762" class="ax_default paragraph">
+        <div id="u43762_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43763" class="text" style="visibility: visible;">
+          <p><span>修改用户</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u43764" class="ax_default horizontal_line">
+        <img id="u43764_img" class="img " src="images/添加用户/u43587.png"/>
+        <!-- Unnamed () -->
+        <div id="u43765" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43766" class="ax_default paragraph">
+        <div id="u43766_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43767" class="text" style="visibility: visible;">
+          <p><span>登录账号</span><span style="color:#FF0000;">*</span><span style="color:#000000;">：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u43768" class="ax_default text_field">
+        <input id="u43768_input" type="text" value="10001"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43769" class="ax_default paragraph">
+        <div id="u43769_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43770" class="text" style="visibility: visible;">
+          <p><span>手机号</span><span style="color:#FF0000;">*</span><span style="color:#000000;">：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u43771" class="ax_default text_field">
+        <input id="u43771_input" type="text" value="12532323232"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43772" class="ax_default paragraph">
+        <div id="u43772_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43773" class="text" style="visibility: visible;">
+          <p><span>Email</span><span style="color:#FF0000;">*</span><span style="color:#000000;">：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u43774" class="ax_default text_field">
+        <input id="u43774_input" type="text" value="1@qq.com"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43775" class="ax_default paragraph">
+        <div id="u43775_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43776" class="text" style="visibility: visible;">
+          <p><span style="color:#000000;">证件类型</span><span style="color:#FF0000;">*</span><span style="color:#000000;">：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43777" class="ax_default paragraph">
+        <div id="u43777_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43778" class="text" style="visibility: visible;">
+          <p><span style="color:#000000;">证件号码</span><span style="color:#FF0000;">*</span><span style="color:#000000;">：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u43779" class="ax_default text_field">
+        <input id="u43779_input" type="text" value="123456789123456789"/>
+      </div>
+
+      <!-- Unnamed (下拉列表框) -->
+      <div id="u43780" class="ax_default droplist">
+        <select id="u43780_input">
+          <option selected value="身份证">身份证</option>
+          <option value="港澳台身份证">港澳台身份证</option>
+          <option value="护照">护照</option>
+        </select>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43781" class="ax_default label">
+        <div id="u43781_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43782" class="text" style="visibility: visible;">
+          <p><span>默认身份证</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43783" class="ax_default paragraph">
+        <div id="u43783_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43784" class="text" style="visibility: visible;">
+          <p><span style="color:#000000;">用户等级</span><span style="color:#FF0000;">*</span><span style="color:#000000;">：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (下拉列表框) -->
+      <div id="u43785" class="ax_default droplist">
+        <select id="u43785_input">
+          <option value="超级管理员">超级管理员</option>
+          <option value="一般管理员">一般管理员</option>
+          <option selected value="普通用户">普通用户</option>
+        </select>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43786" class="ax_default label">
+        <div id="u43786_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43787" class="text" style="visibility: visible;">
+          <p><span>默认普通用户</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43788" class="ax_default paragraph">
+        <div id="u43788_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43789" class="text" style="visibility: visible;">
+          <p><span style="color:#000000;">归属机构</span><span style="color:#FF0000;">*</span><span style="color:#000000;">：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u43790" class="ax_default text_field">
+        <input id="u43790_input" type="text" value="嘉联总部"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u43791" class="ax_default image">
+        <img id="u43791_img" class="img " src="images/进件/u1023.png"/>
+        <!-- Unnamed () -->
+        <div id="u43792" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43793" class="ax_default label">
+        <div id="u43793_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43794" class="text" style="visibility: visible;">
+          <p><span>一个人有可能同时属于多个机构，可多选，如有多个逗号隔开</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43795" class="ax_default paragraph">
+        <div id="u43795_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43796" class="text" style="visibility: visible;">
+          <p><span style="color:#000000;">密码</span><span style="color:#FF0000;">*</span><span style="color:#000000;">：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u43797" class="ax_default text_field">
+        <input id="u43797_input" type="text" value="******" readonly/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43798" class="ax_default label">
+        <div id="u43798_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43799" class="text" style="visibility: visible;">
+          <p><span>不支持修改密码</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43800" class="ax_default paragraph">
+        <div id="u43800_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43801" class="text" style="visibility: visible;">
+          <p><span style="color:#000000;">状态</span><span style="color:#FF0000;">*</span><span style="color:#000000;">：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (下拉列表框) -->
+      <div id="u43802" class="ax_default droplist">
+        <select id="u43802_input">
+          <option selected value="正常">正常</option>
+          <option value="停用">停用</option>
+          <option value="注销">注销</option>
+        </select>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43803" class="ax_default label">
+        <div id="u43803_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43804" class="text" style="visibility: visible;">
+          <p><span>支持修改状态</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u43805" class="ax_default text_area">
+        <textarea id="u43805_input"></textarea>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43806" class="ax_default box_1">
+        <div id="u43806_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43807" class="text" style="visibility: visible;">
+          <p><span>未有角色</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43808" class="ax_default box_1">
+        <div id="u43808_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43809" class="text" style="visibility: visible;">
+          <p><span>已有角色</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u43810" class="ax_default image">
+        <img id="u43810_img" class="img " src="images/添加用户/u43628.png"/>
+        <!-- Unnamed () -->
+        <div id="u43811" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u43812" class="ax_default image">
+        <img id="u43812_img" class="img " src="images/添加用户/u43630.png"/>
+        <!-- Unnamed () -->
+        <div id="u43813" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43814" class="ax_default label">
+        <div id="u43814_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43815" class="text" style="visibility: visible;">
+          <p><span>撤机客服回访</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43816" class="ax_default label">
+        <div id="u43816_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43817" class="text" style="visibility: visible;">
+          <p><span>业务员</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43818" class="ax_default label">
+        <div id="u43818_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43819" class="text" style="visibility: visible;">
+          <p><span>财务经办</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43820" class="ax_default label">
+        <div id="u43820_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43821" class="text" style="visibility: visible;">
+          <p><span>进件审核</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u43822" class="ax_default text_area">
+        <textarea id="u43822_input"></textarea>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u43823" class="ax_default image">
+        <img id="u43823_img" class="img " src="images/导出资料报批/u1921.png"/>
+        <!-- Unnamed () -->
+        <div id="u43824" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43825" class="ax_default paragraph">
+        <div id="u43825_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43826" class="text" style="visibility: visible;">
+          <p><span>上级用户</span><span style="color:#FF0000;">*</span><span style="color:#000000;">：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u43827" class="ax_default text_field">
+        <input id="u43827_input" type="text" value=""/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u43828" class="ax_default image">
+        <img id="u43828_img" class="img " src="images/进件/u1023.png"/>
+        <!-- Unnamed () -->
+        <div id="u43829" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u43830" class="ax_default label">
+        <div id="u43830_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43831" class="text" style="visibility: visible;">
+          <p><span>支持手输和检索，手输时系统自动匹配并实时校验输入的姓名在系统是否存在</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

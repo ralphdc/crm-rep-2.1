@@ -1,0 +1,364 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>扣率查看详情</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/扣率查看详情/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/扣率查看详情/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26867" class="ax_default paragraph">
+        <img id="u26867_img" class="img " src="images/进件/u1029.png"/>
+        <!-- Unnamed () -->
+        <div id="u26868" class="text" style="visibility: visible;">
+          <p><span>商户名称</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26869" class="ax_default paragraph">
+        <div id="u26869_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u26870" class="text" style="visibility: visible;">
+          <p><span>扣率白名单-查看详情</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u26871" class="ax_default line">
+        <img id="u26871_img" class="img " src="images/审批工商白名单/u15197.png"/>
+        <!-- Unnamed () -->
+        <div id="u26872" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26873" class="ax_default text_field">
+        <input id="u26873_input" type="text" value="深圳市美味通餐饮"/>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26874" class="ax_default paragraph">
+        <img id="u26874_img" class="img " src="images/进件审核/u1083.png"/>
+        <!-- Unnamed () -->
+        <div id="u26875" class="text" style="visibility: visible;">
+          <p><span>白名单说明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u26876" class="ax_default text_area">
+        <textarea id="u26876_input"></textarea>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26877" class="ax_default paragraph">
+        <img id="u26877_img" class="img " src="images/进件审核/u1083.png"/>
+        <!-- Unnamed () -->
+        <div id="u26878" class="text" style="visibility: visible;">
+          <p><span>所属代理商</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26879" class="ax_default text_field">
+        <input id="u26879_input" type="text" value="深圳市通宝支付"/>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26880" class="ax_default paragraph">
+        <img id="u26880_img" class="img " src="images/审批扣率白名单/u15678.png"/>
+        <!-- Unnamed () -->
+        <div id="u26881" class="text" style="visibility: visible;">
+          <p><span>MCC类别</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26882" class="ax_default paragraph">
+        <img id="u26882_img" class="img " src="images/进件审核/u1323.png"/>
+        <!-- Unnamed () -->
+        <div id="u26883" class="text" style="visibility: visible;">
+          <p><span>内卡借记卡扣率</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26884" class="ax_default paragraph">
+        <img id="u26884_img" class="img " src="images/审批扣率白名单/u15682.png"/>
+        <!-- Unnamed () -->
+        <div id="u26885" class="text" style="visibility: visible;">
+          <p><span>外币卡EDC扣率</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26886" class="ax_default paragraph">
+        <img id="u26886_img" class="img " src="images/进件审核/u1170.png"/>
+        <!-- Unnamed () -->
+        <div id="u26887" class="text" style="visibility: visible;">
+          <p><span>支付宝</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26888" class="ax_default paragraph">
+        <img id="u26888_img" class="img " src="images/审批扣率白名单/u15686.png"/>
+        <!-- Unnamed () -->
+        <div id="u26889" class="text" style="visibility: visible;">
+          <p><span>微信</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26890" class="ax_default text_field">
+        <input id="u26890_input" type="text" value="" readonly/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26891" class="ax_default text_field">
+        <input id="u26891_input" type="text" value="0.49"/>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26892" class="ax_default paragraph">
+        <img id="u26892_img" class="img " src="images/审批扣率白名单/u15682.png"/>
+        <!-- Unnamed () -->
+        <div id="u26893" class="text" style="visibility: visible;">
+          <p><span>外币卡DCC扣率</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26894" class="ax_default label">
+        <div id="u26894_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u26895" class="text" style="visibility: visible;">
+          <p><span>%</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26896" class="ax_default text_field">
+        <input id="u26896_input" type="text" value=""/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26897" class="ax_default label">
+        <div id="u26897_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u26898" class="text" style="visibility: visible;">
+          <p><span>%</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26899" class="ax_default text_field">
+        <input id="u26899_input" type="text" value=""/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26900" class="ax_default text_field">
+        <input id="u26900_input" type="text" value="0.5"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26901" class="ax_default label">
+        <div id="u26901_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u26902" class="text" style="visibility: visible;">
+          <p><span>%</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26903" class="ax_default text_field">
+        <input id="u26903_input" type="text" value="0.5"/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26904" class="ax_default text_field">
+        <input id="u26904_input" type="text" value="" readonly/>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26905" class="ax_default paragraph">
+        <img id="u26905_img" class="img " src="images/进件审核/u1323.png"/>
+        <!-- Unnamed () -->
+        <div id="u26906" class="text" style="visibility: visible;">
+          <p><span>内卡贷记卡扣率</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26907" class="ax_default text_field">
+        <input id="u26907_input" type="text" value="0.58"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26908" class="ax_default label">
+        <div id="u26908_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u26909" class="text" style="visibility: visible;">
+          <p><span>%</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26910" class="ax_default paragraph">
+        <img id="u26910_img" class="img " src="images/进件/u1029.png"/>
+        <!-- Unnamed () -->
+        <div id="u26911" class="text" style="visibility: visible;">
+          <p><span>外卡扣率</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26912" class="ax_default text_field">
+        <input id="u26912_input" type="text" value="1.8"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26913" class="ax_default label">
+        <div id="u26913_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u26914" class="text" style="visibility: visible;">
+          <p><span>%</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26915" class="ax_default paragraph">
+        <img id="u26915_img" class="img " src="images/进件审核/u1199.png"/>
+        <!-- Unnamed () -->
+        <div id="u26916" class="text" style="visibility: visible;">
+          <p><span>封顶：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26917" class="ax_default text_field">
+        <input id="u26917_input" type="text" value="19"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26918" class="ax_default label">
+        <div id="u26918_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u26919" class="text" style="visibility: visible;">
+          <p><span>元</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26920" class="ax_default paragraph">
+        <img id="u26920_img" class="img " src="images/进件审核/u1085.png"/>
+        <!-- Unnamed () -->
+        <div id="u26921" class="text" style="visibility: visible;">
+          <p><span>附件</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u26922" class="ax_default image">
+        <img id="u26922_img" class="img " src="images/审批商户归属白名单/u17132.png"/>
+        <!-- Unnamed () -->
+        <div id="u26923" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26924" class="ax_default label">
+        <div id="u26924_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u26925" class="text" style="visibility: visible;">
+          <p><span>协议第4页</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u26926" class="ax_default image">
+        <img id="u26926_img" class="img " src="images/导出资料报批/u1921.png"/>
+        <!-- Unnamed () -->
+        <div id="u26927" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本段落) -->
+      <div id="u26928" class="ax_default paragraph">
+        <img id="u26928_img" class="img " src="images/进件/u1029.png"/>
+        <!-- Unnamed () -->
+        <div id="u26929" class="text" style="visibility: visible;">
+          <p><span>审核状态</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u26930" class="ax_default text_field">
+        <input id="u26930_input" type="text" value=""/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26931" class="ax_default label">
+        <div id="u26931_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u26932" class="text" style="visibility: visible;">
+          <p><span>审核备注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u26933" class="ax_default text_area">
+        <textarea id="u26933_input"></textarea>
+      </div>
+    </div>
+  </body>
+</html>

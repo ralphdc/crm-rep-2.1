@@ -1,0 +1,197 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>归属机构查找带回</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/归属机构查找带回/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/归属机构查找带回/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (树状菜单) -->
+      <div id="u23720" class="ax_default tree_node treeroot">
+        <div id="u23720_children" class="u23720_children">
+
+          <!-- Unnamed (树节点) -->
+          <div id="u23721" class="ax_default tree_node treenode">
+
+            <!-- Unnamed (图片) -->
+            <div id="u23722" class="ax_default image">
+              <img id="u23722_img" class="img " src="images/我的工作台/u107_selected.png"/>
+              <!-- Unnamed () -->
+              <div id="u23723" class="text" style="display: none; visibility: hidden">
+                <p><span></span></p>
+              </div>
+            </div>
+            <!-- Unnamed (矩形) -->
+            <div id="u23724" class="" selectiongroup="u23720_tree_group">
+              <div id="u23724_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u23725" class="text" style="visibility: visible;">
+                <p><span>嘉联总部</span></p>
+              </div>
+            </div>
+            <div id="u23721_children" class="u23721_children">
+
+              <!-- Unnamed (树节点) -->
+              <div id="u23726" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u23727" class="" selectiongroup="u23720_tree_group">
+                  <div id="u23727_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u23728" class="text" style="visibility: visible;">
+                    <p><span>机构合作部</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u23729" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u23730" class="" selectiongroup="u23720_tree_group">
+                  <div id="u23730_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u23731" class="text" style="visibility: visible;">
+                    <p><span>商户管理部</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u23732" class="ax_default tree_node treenode">
+
+                <!-- Unnamed (图片) -->
+                <div id="u23733" class="ax_default image">
+                  <img id="u23733_img" class="img " src="images/我的工作台/u107_selected.png"/>
+                  <!-- Unnamed () -->
+                  <div id="u23734" class="text" style="display: none; visibility: hidden">
+                    <p><span></span></p>
+                  </div>
+                </div>
+                <!-- Unnamed (矩形) -->
+                <div id="u23735" class="" selectiongroup="u23720_tree_group">
+                  <div id="u23735_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u23736" class="text" style="visibility: visible;">
+                    <p><span>技术中心</span></p>
+                  </div>
+                </div>
+                <div id="u23732_children" class="u23732_children">
+
+                  <!-- Unnamed (树节点) -->
+                  <div id="u23737" class="ax_default tree_node treenode">
+                    <!-- Unnamed (矩形) -->
+                    <div id="u23738" class="" selectiongroup="u23720_tree_group">
+                      <div id="u23738_div" class=""></div>
+                      <!-- Unnamed () -->
+                      <div id="u23739" class="text" style="visibility: visible;">
+                        <p><span>业务平台部</span></p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Unnamed (树节点) -->
+                  <div id="u23740" class="ax_default tree_node treenode">
+                    <!-- Unnamed (矩形) -->
+                    <div id="u23741" class="" selectiongroup="u23720_tree_group">
+                      <div id="u23741_div" class=""></div>
+                      <!-- Unnamed () -->
+                      <div id="u23742" class="text" style="visibility: visible;">
+                        <p><span>质量管理部</span></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u23743" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u23744" class="" selectiongroup="u23720_tree_group">
+                  <div id="u23744_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u23745" class="text" style="visibility: visible;">
+                    <p><span>广州分公司</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Unnamed (树节点) -->
+              <div id="u23746" class="ax_default tree_node treenode">
+                <!-- Unnamed (矩形) -->
+                <div id="u23747" class="" selectiongroup="u23720_tree_group">
+                  <div id="u23747_div" class=""></div>
+                  <!-- Unnamed () -->
+                  <div id="u23748" class="text" style="visibility: visible;">
+                    <p><span>上海分公司</span></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u23749" class="ax_default label">
+        <div id="u23749_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u23750" class="text" style="visibility: visible;">
+          <p><span>归属机构用树形结构展示</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u23751" class="ax_default label">
+        <div id="u23751_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u23752" class="text" style="visibility: visible;">
+          <p><span>鼠标放在对应的机构上面单击选中</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
